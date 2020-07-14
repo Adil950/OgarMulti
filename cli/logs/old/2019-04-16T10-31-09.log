@@ -1,0 +1,85 @@
+2019-04-16 10:17:39.405 [INFO] starting
+2019-04-16 10:17:39.417 [DEBUG] listener opening at 443
+2019-04-16 10:17:39.433 [INFO] ticker begin
+2019-04-16 10:17:39.435 [INFO] [1m[32mOgarII[0m[32m 1.2.1[0m
+2019-04-16 10:17:39.441 [INFO] listener open at 443
+2019-04-16 10:17:40.428 [DEBUG] command stream open
+2019-04-16 10:17:50.861 @ stop
+2019-04-16 10:17:50.862 [INFO] stopping
+2019-04-16 10:17:50.864 [DEBUG] listener closing
+2019-04-16 10:17:50.865 [INFO] ticker stop
+2019-04-16 10:17:56.665 @ start
+2019-04-16 10:17:56.665 [INFO] starting
+2019-04-16 10:17:56.667 [DEBUG] listener opening at 443
+2019-04-16 10:17:56.670 [INFO] ticker begin
+2019-04-16 10:17:56.671 [INFO] [1m[32mOgarII[0m[32m 1.2.1[0m
+2019-04-16 10:17:56.673 [INFO] listener open at 443
+2019-04-16 10:18:00.255 @ stop
+2019-04-16 10:18:00.256 [INFO] stopping
+2019-04-16 10:18:00.258 [DEBUG] listener closing
+2019-04-16 10:18:00.258 [INFO] ticker stop
+2019-04-16 10:18:01.148 @ start
+2019-04-16 10:18:01.148 [INFO] starting
+2019-04-16 10:18:01.152 [DEBUG] listener opening at 443
+2019-04-16 10:18:01.153 [INFO] ticker begin
+2019-04-16 10:18:01.154 [INFO] [1m[32mOgarII[0m[32m 1.2.1[0m
+2019-04-16 10:18:01.157 [INFO] listener open at 443
+2019-04-16 10:18:10.911 [ACCESS] REQUEST FROM 127.0.0.1, not secure, Origin: https://agar.io
+2019-04-16 10:18:10.911 [DEBUG] client verification passed
+2019-04-16 10:18:10.918 [ACCESS] CONNECTION FROM 127.0.0.1
+2019-04-16 10:18:10.935 [DEBUG] added a player with id 1
+2019-04-16 10:18:10.958 [DEBUG] added a world with id 1
+2019-04-16 10:18:10.964 [DEBUG] player 1 has been added to world 1
+2019-04-16 10:19:29.575 [DEBUG] connection from 127.0.0.1 has disconnected
+2019-04-16 10:19:29.576 [ACCESS] DISCONNECTION FROM 127.0.0.1 (1005 '')
+2019-04-16 10:20:29.686 [DEBUG] player 1 has been removed from world 1
+2019-04-16 10:20:29.686 [DEBUG] removed player with id 1
+2019-04-16 10:20:29.703 [DEBUG] removed world with id 1
+2019-04-16 10:21:26.266 [ACCESS] REQUEST FROM 127.0.0.1, not secure, Origin: https://agar.io
+2019-04-16 10:21:26.266 [DEBUG] client verification passed
+2019-04-16 10:21:26.267 [ACCESS] CONNECTION FROM 127.0.0.1
+2019-04-16 10:21:26.269 [DEBUG] added a player with id 1
+2019-04-16 10:21:26.305 [DEBUG] added a world with id 1
+2019-04-16 10:21:26.305 [DEBUG] player 1 has been added to world 1
+2019-04-16 10:23:13.882 [ACCESS] DISCONNECTION FROM 127.0.0.1 (1003 'Maximum dormancy time exceeded')
+2019-04-16 10:24:14.206 [DEBUG] player 1 has been removed from world 1
+2019-04-16 10:24:14.206 [DEBUG] removed player with id 1
+2019-04-16 10:24:14.221 [DEBUG] removed world with id 1
+2019-04-16 10:24:54.640 [ACCESS] REQUEST FROM 127.0.0.1, not secure, Origin: https://agar.io
+2019-04-16 10:24:54.640 [DEBUG] client verification passed
+2019-04-16 10:24:54.641 [ACCESS] CONNECTION FROM 127.0.0.1
+2019-04-16 10:24:54.646 [DEBUG] added a player with id 1
+2019-04-16 10:24:54.663 [DEBUG] added a world with id 1
+2019-04-16 10:24:54.663 [DEBUG] player 1 has been added to world 1
+2019-04-16 10:26:34.323 [ACCESS] DISCONNECTION FROM 127.0.0.1 (1003 'Maximum dormancy time exceeded')
+2019-04-16 10:26:57.769 [ACCESS] REQUEST FROM 127.0.0.1, not secure, Origin: https://agar.io
+2019-04-16 10:26:57.769 [DEBUG] client verification passed
+2019-04-16 10:26:57.770 [ACCESS] CONNECTION FROM 127.0.0.1
+2019-04-16 10:26:57.778 [DEBUG] added a player with id 2
+2019-04-16 10:26:57.818 [DEBUG] player 2 has been added to world 1
+2019-04-16 10:27:03.774 [ACCESS] DISCONNECTION FROM 127.0.0.1 (1009 'Unexpected message size')
+2019-04-16 10:27:03.815 [DEBUG] player 2 has been removed from world 1
+2019-04-16 10:27:03.815 [DEBUG] removed player with id 2
+2019-04-16 10:27:15.192 [ACCESS] REQUEST FROM 127.0.0.1, not secure, Origin: https://agar.io
+2019-04-16 10:27:15.193 [DEBUG] client verification passed
+2019-04-16 10:27:15.213 [ACCESS] CONNECTION FROM 127.0.0.1
+2019-04-16 10:27:15.250 [DEBUG] added a player with id 2
+2019-04-16 10:27:15.271 [DEBUG] player 2 has been added to world 1
+2019-04-16 10:27:32.211 @ players
+2019-04-16 10:27:32.214 ID | WORLD FOLLOWING STATE SCORE NAME
+2  | 1     ///////// alive 13    ////
+
+2019-04-16 10:27:40.083 [DEBUG] player 1 has been removed from world 1
+2019-04-16 10:27:40.083 [DEBUG] removed player with id 1
+2019-04-16 10:27:41.266 @ players
+2019-04-16 10:27:41.266 ID | WORLD FOLLOWING STATE SCORE NAME
+2  | 1     ///////// alive 16    ////
+
+2019-04-16 10:27:48.757 @ mass 2 222
+2019-04-16 10:27:48.758 player now has 222 mass
+2019-04-16 10:27:51.337 @ mass 2 22222
+2019-04-16 10:27:51.338 player now has 22222 mass
+2019-04-16 10:30:02.257 [ACCESS] DISCONNECTION FROM 127.0.0.1 (1003 'Maximum dormancy time exceeded')
+2019-04-16 10:31:02.544 [DEBUG] player 2 has been removed from world 1
+2019-04-16 10:31:02.544 [DEBUG] removed player with id 2
+2019-04-16 10:31:02.563 [DEBUG] removed world with id 1

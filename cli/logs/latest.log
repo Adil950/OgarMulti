@@ -1,0 +1,24 @@
+2020-07-10 14:32:26.912 [INFO] starting
+2020-07-10 14:32:26.914 [DEBUG] listener opening at 443
+2020-07-10 14:32:26.923 [INFO] ticker begin
+2020-07-10 14:32:26.924 [INFO] OgarII 1.3.6
+2020-07-10 14:32:26.924 [INFO] gamemode: FFA
+2020-07-10 14:32:26.924 [INFO] listener open at 443
+2020-07-10 14:32:27.912 [DEBUG] command stream open
+2020-07-10 14:32:30.760 [ACCESS] REQUEST FROM ::1, not secure, Origin: https://agar.io
+2020-07-10 14:32:30.760 [DEBUG] client verification passed
+2020-07-10 14:32:30.762 [ACCESS] CONNECTION FROM ::1
+2020-07-10 14:32:30.766 [DEBUG] added a player with id 1
+2020-07-10 14:32:30.803 [DEBUG] added a world with id 1
+2020-07-10 14:32:30.804 [DEBUG] player 1 has been added to world 1
+2020-07-10 14:32:36.879 [DEBUG] connection from ::1 has disconnected
+2020-07-10 14:32:36.885 [ACCESS] DISCONNECTION FROM ::1 (1001 '')
+2020-07-10 14:32:36.924 [DEBUG] player 1 has been removed from world 1
+2020-07-10 14:32:36.924 [DEBUG] removed player with id 1
+2020-07-10 14:32:36.931 [DEBUG] removed world with id 1
+2020-07-10 14:33:05.399 [ACCESS] REQUEST FROM ::1, not secure, Origin: https://agar.io
+2020-07-10 14:33:05.399 [DEBUG] client verification passed
+2020-07-10 14:33:05.399 [ACCESS] CONNECTION FROM ::1
+2020-07-10 14:33:05.405 [DEBUG] added a player with id 1
+2020-07-10 14:33:05.443 [DEBUG] added a world with id 1
+2020-07-10 14:33:05.443 [DEBUG] player 1 has been added to world 1

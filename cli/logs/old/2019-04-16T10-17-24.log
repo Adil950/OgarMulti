@@ -1,0 +1,61 @@
+2019-04-16 10:15:41.980 [INFO] starting
+2019-04-16 10:15:41.987 [DEBUG] listener opening at 443
+2019-04-16 10:15:42.005 [INFO] ticker begin
+2019-04-16 10:15:42.007 [INFO] [1m[32mOgarII[0m[32m 1.2.1[0m
+2019-04-16 10:15:42.012 [INFO] listener open at 443
+2019-04-16 10:15:42.980 [DEBUG] command stream open
+2019-04-16 10:16:41.002 [ACCESS] REQUEST FROM 127.0.0.1, not secure, Origin: https://agar.io
+2019-04-16 10:16:41.002 [DEBUG] client verification passed
+2019-04-16 10:16:41.006 [ACCESS] CONNECTION FROM 127.0.0.1
+2019-04-16 10:16:41.014 [DEBUG] added a player with id 1
+2019-04-16 10:16:41.017 [DEBUG] added a world with id 1
+2019-04-16 10:16:41.020 [DEBUG] player 1 has been added to world 1
+2019-04-16 10:16:51.480 @ player
+2019-04-16 10:16:51.481 unknown command player
+2019-04-16 10:16:55.829 @ help
+2019-04-16 10:16:55.831 NAME      ARGUMENTS                         | DESCRIPTION                                                   
+addbot    <world id> [count=1]              | assign player bots to a world                                 
+addminion <id> [count]                      | assign minions to a player                                    
+crash                                       | manually force an error throw                                 
+eval                                        | evaluate javascript code in a function bound to server handle 
+exit                                        | stop the handle and close the command stream                  
+explode   <id>                              | instantly explode a player's first cell                       
+forbid    <IP address / player id>          | forbid (ban) specified IP or a connected player               
+help                                        | display all registered commands and their relevant information
+kill      <id>                              | instantly kill a player                                       
+killall   <world id>                        | instantly kill all players in a world                         
+mass      <id> <mass>                       | set cell mass to all of a player's cells                      
+merge     <id>                              | instantly merge a player                                      
+pardon    <IP address>                      | pardon (unban) specified IP                                   
+pause                                       | toggle handle pause                                           
+players   [world id or "any"] [router type] | display information about players                             
+reload                                      | reload the settings from local settings.json                  
+restart                                     | stop then immediately start the handle                        
+rmbot     <world id> [count=1]              | remove player bots from a world                               
+rmminion  <id> [count]                      | remove assigned minions from a player                         
+routers   [router type]                     | display information about routers and their players           
+save                                        | save the current settings to settings.json                    
+setting   <name> [value]                    | change/print the value of a setting                           
+start                                       | start the handle                                              
+stats                                       | display critical information about the server                 
+stop                                        | stop the handle                                               
+test                                        | test command                                                  
+
+2019-04-16 10:17:01.576 @ players
+2019-04-16 10:17:01.578 ID | WORLD FOLLOWING STATE SCORE NAME
+1  | 1     ///////// alive 11    ////
+
+2019-04-16 10:17:13.639 @ reload
+2019-04-16 10:17:13.639 done
+2019-04-16 10:17:24.291 @ stats
+2019-04-16 10:17:24.316 [FATAL] ReferenceError: memory is not defined
+    at prettyMemoryData (C:\Users\detai\Desktop\OgarII-master\src\commands\DefaultCommands.js:91:32)
+    at Command.exec [as executor] (C:\Users\detai\Desktop\OgarII-master\src\commands\DefaultCommands.js:323:32)
+    at CommandList.execute (C:\Users\detai\Desktop\OgarII-master\src\commands\CommandList.js:46:43)
+    at commandStream.question (C:\Users\detai\Desktop\OgarII-master\cli\index.js:114:37)
+    at Interface._onLine (readline.js:305:5)
+    at Interface._line (readline.js:680:8)
+    at Interface._ttyWrite (readline.js:960:14)
+    at ReadStream.onkeypress (readline.js:183:10)
+    at ReadStream.emit (events.js:193:13)
+    at emitKeys (internal/readline.js:424:14)

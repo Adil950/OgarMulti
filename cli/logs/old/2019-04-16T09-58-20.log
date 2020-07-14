@@ -1,0 +1,56 @@
+2019-04-16 09:51:19.236 [INFO] starting
+2019-04-16 09:51:19.245 [DEBUG] listener opening at 443
+2019-04-16 09:51:19.316 [INFO] ticker begin
+2019-04-16 09:51:19.317 [INFO] [1m[32mOgarII[0m[32m 1.2.1[0m
+2019-04-16 09:51:19.320 [INFO] listener open at 443
+2019-04-16 09:51:20.238 [DEBUG] command stream open
+2019-04-16 09:52:31.361 @ pl
+2019-04-16 09:52:31.361 unknown command pl
+2019-04-16 09:52:37.619 @ status
+2019-04-16 09:52:37.619 unknown command status
+2019-04-16 09:54:57.195 @ help
+2019-04-16 09:54:57.197 NAME      ARGUMENTS                         | DESCRIPTION                                                   
+addbot    <world id> [count=1]              | assign player bots to a world                                 
+addminion <id> [count]                      | assign minions to a player                                    
+crash                                       | manually force an error throw                                 
+eval                                        | evaluate javascript code in a function bound to server handle 
+exit                                        | stop the handle and close the command stream                  
+explode   <id>                              | instantly explode a player's first cell                       
+forbid    <IP address / player id>          | forbid (ban) specified IP or a connected player               
+help                                        | display all registered commands and their relevant information
+kill      <id>                              | instantly kill a player                                       
+killall   <world id>                        | instantly kill all players in a world                         
+mass      <id> <mass>                       | set cell mass to all of a player's cells                      
+merge     <id>                              | instantly merge a player                                      
+pardon    <IP address>                      | pardon (unban) specified IP                                   
+pause                                       | toggle handle pause                                           
+players   [world id or "any"] [router type] | display information about players                             
+reload                                      | reload the settings from local settings.json                  
+restart                                     | stop then immediately start the handle                        
+rmbot     <world id> [count=1]              | remove player bots from a world                               
+rmminion  <id> [count]                      | remove assigned minions from a player                         
+routers   [router type]                     | display information about routers and their players           
+save                                        | save the current settings to settings.json                    
+setting   <name> [value]                    | change/print the value of a setting                           
+start                                       | start the handle                                              
+stats                                       | display critical information about the server                 
+stop                                        | stop the handle                                               
+test                                        | test command                                                  
+
+2019-04-16 09:58:19.798 [ACCESS] REQUEST FROM 127.0.0.1, not secure, Origin: https://agar.io
+2019-04-16 09:58:19.798 [DEBUG] client verification passed
+2019-04-16 09:58:19.888 [ACCESS] CONNECTION FROM 127.0.0.1
+2019-04-16 09:58:19.983 [DEBUG] added a player with id 1
+2019-04-16 09:58:19.985 [DEBUG] added a world with id 1
+2019-04-16 09:58:19.991 [DEBUG] player 1 has been added to world 1
+2019-04-16 09:58:20.852 [FATAL] Error: WebSocket is not open: readyState 2 (CLOSING)
+    at WebSocket.send (C:\Users\detai\Desktop\OgarII-master\node_modules\ws\lib\websocket.js:329:19)
+    at Connection.send (C:\Users\detai\Desktop\OgarII-master\src\sockets\Connection.js:162:24)
+    at LegacyProtocol.send (C:\Users\detai\Desktop\OgarII-master\src\protocols\Protocol.js:86:34)
+    at LegacyProtocol.onVisibleCellUpdate (C:\Users\detai\Desktop\OgarII-master\src\protocols\LegacyProtocol.js:266:14)
+    at Connection.update (C:\Users\detai\Desktop\OgarII-master\src\sockets\Connection.js:146:23)
+    at Listener.update (C:\Users\detai\Desktop\OgarII-master\src\sockets\Listener.js:127:49)
+    at ServerHandle._onTick (C:\Users\detai\Desktop\OgarII-master\src\ServerHandle.js:166:23)
+    at Ticker._tick (C:\Users\detai\Desktop\OgarII-master\src\primitives\Ticker.js:43:30)
+    at listOnTimeout (internal/timers.js:535:17)
+    at processTimers (internal/timers.js:479:7)

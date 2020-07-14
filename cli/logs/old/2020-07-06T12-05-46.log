@@ -1,0 +1,84 @@
+2020-07-06 12:03:27.254 [INFO] starting
+2020-07-06 12:03:27.255 [DEBUG] listener opening at 443
+2020-07-06 12:03:27.266 [INFO] ticker begin
+2020-07-06 12:03:27.266 [INFO] OgarII 1.3.6
+2020-07-06 12:03:27.266 [INFO] gamemode: FFA
+2020-07-06 12:03:27.267 [INFO] listener open at 443
+2020-07-06 12:03:28.255 [DEBUG] command stream open
+2020-07-06 12:03:46.255 [ACCESS] REQUEST FROM 127.0.0.1, not secure, Origin: https://agar.io
+2020-07-06 12:03:46.256 [DEBUG] client verification passed
+2020-07-06 12:03:46.258 [ACCESS] CONNECTION FROM 127.0.0.1
+2020-07-06 12:03:46.283 [DEBUG] added a player with id 1
+2020-07-06 12:03:46.306 [DEBUG] added a world with id 1
+2020-07-06 12:03:46.307 [DEBUG] player 1 has been added to world 1
+2020-07-06 12:04:31.704 @ help
+2020-07-06 12:04:31.706 NAME      ARGUMENTS                         | DESCRIPTION                                                   
+addbot    <world id> [count=1]              | assign player bots to a world                                 
+addminion <id> [count]                      | assign minions to a player                                    
+crash                                       | manually force an error throw                                 
+eval                                        | evaluate javascript code in a function bound to server handle 
+exit                                        | stop the handle and close the command stream                  
+explode   <id>                              | instantly explode a player's first cell                       
+forbid    <IP address / player id>          | forbid (ban) specified IP or a connected player               
+help                                        | display all registered commands and their relevant information
+kill      <id>                              | instantly kill a player                                       
+killall   <world id>                        | instantly kill all players in a world                         
+mass      <id> <mass>                       | set cell mass to all of a player's cells                      
+merge     <id>                              | instantly merge a player                                      
+pardon    <IP address>                      | pardon (unban) specified IP                                   
+pause                                       | toggle handle pause                                           
+players   [world id or "any"] [router type] | display information about players                             
+reload                                      | reload the settings from local settings.json                  
+restart                                     | stop then immediately start the handle                        
+rmbot     <world id> [count=1]              | remove player bots from a world                               
+rmminion  <id> [count]                      | remove assigned minions from a player                         
+routers   [router type]                     | display information about routers and their players           
+save                                        | save the current settings to settings.json                    
+setting   <name> [value]                    | change/print the value of a setting                           
+start                                       | start the handle                                              
+stats                                       | display critical information about the server                 
+stop                                        | stop the handle                                               
+test                                        | test command                                                  
+
+2020-07-06 12:04:34.585 @ restart
+2020-07-06 12:04:34.585 [INFO] stopping
+2020-07-06 12:04:34.586 [DEBUG] player 1 has been removed from world 1
+2020-07-06 12:04:34.593 [DEBUG] removed world with id 1
+2020-07-06 12:04:34.593 [DEBUG] removed player with id 1
+2020-07-06 12:04:34.593 [DEBUG] listener closing
+2020-07-06 12:04:34.594 [INFO] ticker stop
+2020-07-06 12:04:34.594 [INFO] starting
+2020-07-06 12:04:34.595 [DEBUG] listener opening at 443
+2020-07-06 12:04:34.596 [INFO] ticker begin
+2020-07-06 12:04:34.596 [INFO] OgarII 1.3.6
+2020-07-06 12:04:34.597 [INFO] gamemode: FFA
+2020-07-06 12:04:34.598 [DEBUG] connection from 127.0.0.1 has disconnected
+2020-07-06 12:04:34.598 [INFO] listener open at 443
+2020-07-06 12:04:34.637 [ACCESS] DISCONNECTION FROM 127.0.0.1 (0 '')
+2020-07-06 12:04:41.252 [ACCESS] REQUEST FROM 127.0.0.1, not secure, Origin: https://agar.io
+2020-07-06 12:04:41.253 [DEBUG] client verification passed
+2020-07-06 12:04:41.253 [ACCESS] CONNECTION FROM 127.0.0.1
+2020-07-06 12:04:41.259 [DEBUG] added a player with id 1
+2020-07-06 12:04:41.288 [DEBUG] added a world with id 1
+2020-07-06 12:04:41.288 [DEBUG] player 1 has been added to world 1
+2020-07-06 12:05:38.097 @ restart
+2020-07-06 12:05:38.097 [INFO] stopping
+2020-07-06 12:05:38.097 [DEBUG] player 1 has been removed from world 1
+2020-07-06 12:05:38.105 [DEBUG] removed world with id 1
+2020-07-06 12:05:38.105 [DEBUG] removed player with id 1
+2020-07-06 12:05:38.105 [DEBUG] listener closing
+2020-07-06 12:05:38.105 [INFO] ticker stop
+2020-07-06 12:05:38.106 [INFO] starting
+2020-07-06 12:05:38.106 [DEBUG] listener opening at 443
+2020-07-06 12:05:38.107 [INFO] ticker begin
+2020-07-06 12:05:38.108 [INFO] OgarII 1.3.6
+2020-07-06 12:05:38.108 [INFO] gamemode: FFA
+2020-07-06 12:05:38.109 [DEBUG] connection from 127.0.0.1 has disconnected
+2020-07-06 12:05:38.109 [INFO] listener open at 443
+2020-07-06 12:05:38.149 [ACCESS] DISCONNECTION FROM 127.0.0.1 (0 '')
+2020-07-06 12:05:46.157 [ACCESS] REQUEST FROM 127.0.0.1, not secure, Origin: https://agar.io
+2020-07-06 12:05:46.157 [DEBUG] client verification passed
+2020-07-06 12:05:46.157 [ACCESS] CONNECTION FROM 127.0.0.1
+2020-07-06 12:05:46.159 [DEBUG] added a player with id 1
+2020-07-06 12:05:46.187 [DEBUG] added a world with id 1
+2020-07-06 12:05:46.187 [DEBUG] player 1 has been added to world 1

@@ -1,0 +1,528 @@
+2019-04-16 10:03:09.426 [INFO] starting
+2019-04-16 10:03:09.438 [DEBUG] listener opening at 443
+2019-04-16 10:03:09.527 [INFO] ticker begin
+2019-04-16 10:03:09.532 [INFO] [1m[32mOgarII[0m[32m 1.2.1[0m
+2019-04-16 10:03:09.537 [INFO] listener open at 443
+2019-04-16 10:03:10.435 [DEBUG] command stream open
+2019-04-16 10:03:16.078 @ help
+2019-04-16 10:03:16.080 NAME      ARGUMENTS                         | DESCRIPTION                                                   
+addbot    <world id> [count=1]              | assign player bots to a world                                 
+addminion <id> [count]                      | assign minions to a player                                    
+crash                                       | manually force an error throw                                 
+eval                                        | evaluate javascript code in a function bound to server handle 
+exit                                        | stop the handle and close the command stream                  
+explode   <id>                              | instantly explode a player's first cell                       
+forbid    <IP address / player id>          | forbid (ban) specified IP or a connected player               
+help                                        | display all registered commands and their relevant information
+kill      <id>                              | instantly kill a player                                       
+killall   <world id>                        | instantly kill all players in a world                         
+mass      <id> <mass>                       | set cell mass to all of a player's cells                      
+merge     <id>                              | instantly merge a player                                      
+pardon    <IP address>                      | pardon (unban) specified IP                                   
+pause                                       | toggle handle pause                                           
+players   [world id or "any"] [router type] | display information about players                             
+reload                                      | reload the settings from local settings.json                  
+restart                                     | stop then immediately start the handle                        
+rmbot     <world id> [count=1]              | remove player bots from a world                               
+rmminion  <id> [count]                      | remove assigned minions from a player                         
+routers   [router type]                     | display information about routers and their players           
+save                                        | save the current settings to settings.json                    
+setting   <name> [value]                    | change/print the value of a setting                           
+start                                       | start the handle                                              
+stats                                       | display critical information about the server                 
+stop                                        | stop the handle                                               
+test                                        | test command                                                  
+
+2019-04-16 10:03:53.986 [ACCESS] REQUEST FROM 127.0.0.1, not secure, Origin: https://agar.io
+2019-04-16 10:03:53.986 [DEBUG] client verification passed
+2019-04-16 10:03:54.023 [ACCESS] CONNECTION FROM 127.0.0.1
+2019-04-16 10:03:54.049 [DEBUG] added a player with id 1
+2019-04-16 10:03:54.051 [DEBUG] added a world with id 1
+2019-04-16 10:03:54.056 [DEBUG] player 1 has been added to world 1
+2019-04-16 10:04:15.346 @ pl
+2019-04-16 10:04:15.346 unknown command pl
+2019-04-16 10:04:27.158 @ players
+2019-04-16 10:04:27.159 ID | WORLD FOLLOWING STATE SCORE NAME 
+1  | 1     ///////// alive 16    japan
+
+2019-04-16 10:04:34.146 @ mass 1 20000
+2019-04-16 10:04:34.147 player now has 20000 mass
+2019-04-16 10:04:46.842 @ addbot 123
+2019-04-16 10:04:46.842 no world has this id
+2019-04-16 10:05:06.316 @ minion 1 122
+2019-04-16 10:05:06.316 unknown command minion 1 122
+2019-04-16 10:05:21.588 @ addbot 1
+2019-04-16 10:05:21.588 [DEBUG] added a player with id 2
+2019-04-16 10:05:21.588 [DEBUG] player 2 has been added to world 1
+2019-04-16 10:05:21.588 added 1 player bots to world
+2019-04-16 10:05:24.094 @ addbot 1
+2019-04-16 10:05:24.094 [DEBUG] added a player with id 3
+2019-04-16 10:05:24.094 [DEBUG] player 3 has been added to world 1
+2019-04-16 10:05:24.094 added 1 player bots to world
+2019-04-16 10:05:24.280 @ addbot 1
+2019-04-16 10:05:24.281 [DEBUG] added a player with id 4
+2019-04-16 10:05:24.281 [DEBUG] player 4 has been added to world 1
+2019-04-16 10:05:24.281 added 1 player bots to world
+2019-04-16 10:05:24.452 @ addbot 1
+2019-04-16 10:05:24.452 [DEBUG] added a player with id 5
+2019-04-16 10:05:24.452 [DEBUG] player 5 has been added to world 1
+2019-04-16 10:05:24.452 added 1 player bots to world
+2019-04-16 10:05:24.585 @ addbot 1
+2019-04-16 10:05:24.585 [DEBUG] added a player with id 6
+2019-04-16 10:05:24.585 [DEBUG] player 6 has been added to world 1
+2019-04-16 10:05:24.585 added 1 player bots to world
+2019-04-16 10:05:24.757 @ addbot 1
+2019-04-16 10:05:24.757 [DEBUG] added a player with id 7
+2019-04-16 10:05:24.757 [DEBUG] player 7 has been added to world 1
+2019-04-16 10:05:24.757 added 1 player bots to world
+2019-04-16 10:05:24.925 @ addbot 1
+2019-04-16 10:05:24.925 [DEBUG] added a player with id 8
+2019-04-16 10:05:24.925 [DEBUG] player 8 has been added to world 1
+2019-04-16 10:05:24.925 added 1 player bots to world
+2019-04-16 10:05:25.098 @ addbot 1
+2019-04-16 10:05:25.098 [DEBUG] added a player with id 9
+2019-04-16 10:05:25.098 [DEBUG] player 9 has been added to world 1
+2019-04-16 10:05:25.098 added 1 player bots to world
+2019-04-16 10:05:27.919 @ addbot 1 12
+2019-04-16 10:05:27.920 [DEBUG] added a player with id 10
+2019-04-16 10:05:27.920 [DEBUG] player 10 has been added to world 1
+2019-04-16 10:05:27.920 [DEBUG] added a player with id 11
+2019-04-16 10:05:27.920 [DEBUG] player 11 has been added to world 1
+2019-04-16 10:05:27.920 [DEBUG] added a player with id 12
+2019-04-16 10:05:27.920 [DEBUG] player 12 has been added to world 1
+2019-04-16 10:05:27.920 [DEBUG] added a player with id 13
+2019-04-16 10:05:27.920 [DEBUG] player 13 has been added to world 1
+2019-04-16 10:05:27.920 [DEBUG] added a player with id 14
+2019-04-16 10:05:27.920 [DEBUG] player 14 has been added to world 1
+2019-04-16 10:05:27.920 [DEBUG] added a player with id 15
+2019-04-16 10:05:27.920 [DEBUG] player 15 has been added to world 1
+2019-04-16 10:05:27.920 [DEBUG] added a player with id 16
+2019-04-16 10:05:27.920 [DEBUG] player 16 has been added to world 1
+2019-04-16 10:05:27.920 [DEBUG] added a player with id 17
+2019-04-16 10:05:27.920 [DEBUG] player 17 has been added to world 1
+2019-04-16 10:05:27.920 [DEBUG] added a player with id 18
+2019-04-16 10:05:27.920 [DEBUG] player 18 has been added to world 1
+2019-04-16 10:05:27.920 [DEBUG] added a player with id 19
+2019-04-16 10:05:27.920 [DEBUG] player 19 has been added to world 1
+2019-04-16 10:05:27.920 [DEBUG] added a player with id 20
+2019-04-16 10:05:27.920 [DEBUG] player 20 has been added to world 1
+2019-04-16 10:05:27.920 [DEBUG] added a player with id 21
+2019-04-16 10:05:27.920 [DEBUG] player 21 has been added to world 1
+2019-04-16 10:05:27.920 added 12 player bots to world
+2019-04-16 10:05:33.434 @ addbot 1 88
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 22
+2019-04-16 10:05:33.434 [DEBUG] player 22 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 23
+2019-04-16 10:05:33.434 [DEBUG] player 23 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 24
+2019-04-16 10:05:33.434 [DEBUG] player 24 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 25
+2019-04-16 10:05:33.434 [DEBUG] player 25 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 26
+2019-04-16 10:05:33.434 [DEBUG] player 26 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 27
+2019-04-16 10:05:33.434 [DEBUG] player 27 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 28
+2019-04-16 10:05:33.434 [DEBUG] player 28 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 29
+2019-04-16 10:05:33.434 [DEBUG] player 29 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 30
+2019-04-16 10:05:33.434 [DEBUG] player 30 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 31
+2019-04-16 10:05:33.434 [DEBUG] player 31 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 32
+2019-04-16 10:05:33.434 [DEBUG] player 32 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 33
+2019-04-16 10:05:33.434 [DEBUG] player 33 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 34
+2019-04-16 10:05:33.434 [DEBUG] player 34 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 35
+2019-04-16 10:05:33.434 [DEBUG] player 35 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 36
+2019-04-16 10:05:33.434 [DEBUG] player 36 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 37
+2019-04-16 10:05:33.434 [DEBUG] player 37 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 38
+2019-04-16 10:05:33.434 [DEBUG] player 38 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 39
+2019-04-16 10:05:33.434 [DEBUG] player 39 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 40
+2019-04-16 10:05:33.434 [DEBUG] player 40 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 41
+2019-04-16 10:05:33.434 [DEBUG] player 41 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 42
+2019-04-16 10:05:33.434 [DEBUG] player 42 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 43
+2019-04-16 10:05:33.434 [DEBUG] player 43 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 44
+2019-04-16 10:05:33.434 [DEBUG] player 44 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 45
+2019-04-16 10:05:33.434 [DEBUG] player 45 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 46
+2019-04-16 10:05:33.434 [DEBUG] player 46 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 47
+2019-04-16 10:05:33.434 [DEBUG] player 47 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 48
+2019-04-16 10:05:33.434 [DEBUG] player 48 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 49
+2019-04-16 10:05:33.434 [DEBUG] player 49 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 50
+2019-04-16 10:05:33.434 [DEBUG] player 50 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 51
+2019-04-16 10:05:33.434 [DEBUG] player 51 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 52
+2019-04-16 10:05:33.434 [DEBUG] player 52 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 53
+2019-04-16 10:05:33.434 [DEBUG] player 53 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 54
+2019-04-16 10:05:33.434 [DEBUG] player 54 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 55
+2019-04-16 10:05:33.434 [DEBUG] player 55 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 56
+2019-04-16 10:05:33.434 [DEBUG] player 56 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 57
+2019-04-16 10:05:33.434 [DEBUG] player 57 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 58
+2019-04-16 10:05:33.434 [DEBUG] player 58 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 59
+2019-04-16 10:05:33.434 [DEBUG] player 59 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 60
+2019-04-16 10:05:33.434 [DEBUG] player 60 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 61
+2019-04-16 10:05:33.434 [DEBUG] player 61 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 62
+2019-04-16 10:05:33.434 [DEBUG] player 62 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 63
+2019-04-16 10:05:33.434 [DEBUG] player 63 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 64
+2019-04-16 10:05:33.434 [DEBUG] player 64 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 65
+2019-04-16 10:05:33.434 [DEBUG] player 65 has been added to world 1
+2019-04-16 10:05:33.434 [DEBUG] added a player with id 66
+2019-04-16 10:05:33.435 [DEBUG] player 66 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 67
+2019-04-16 10:05:33.435 [DEBUG] player 67 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 68
+2019-04-16 10:05:33.435 [DEBUG] player 68 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 69
+2019-04-16 10:05:33.435 [DEBUG] player 69 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 70
+2019-04-16 10:05:33.435 [DEBUG] player 70 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 71
+2019-04-16 10:05:33.435 [DEBUG] player 71 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 72
+2019-04-16 10:05:33.435 [DEBUG] player 72 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 73
+2019-04-16 10:05:33.435 [DEBUG] player 73 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 74
+2019-04-16 10:05:33.435 [DEBUG] player 74 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 75
+2019-04-16 10:05:33.435 [DEBUG] player 75 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 76
+2019-04-16 10:05:33.435 [DEBUG] player 76 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 77
+2019-04-16 10:05:33.435 [DEBUG] player 77 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 78
+2019-04-16 10:05:33.435 [DEBUG] player 78 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 79
+2019-04-16 10:05:33.435 [DEBUG] player 79 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 80
+2019-04-16 10:05:33.435 [DEBUG] player 80 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 81
+2019-04-16 10:05:33.435 [DEBUG] player 81 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 82
+2019-04-16 10:05:33.435 [DEBUG] player 82 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 83
+2019-04-16 10:05:33.435 [DEBUG] player 83 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 84
+2019-04-16 10:05:33.435 [DEBUG] player 84 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 85
+2019-04-16 10:05:33.435 [DEBUG] player 85 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 86
+2019-04-16 10:05:33.435 [DEBUG] player 86 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 87
+2019-04-16 10:05:33.435 [DEBUG] player 87 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 88
+2019-04-16 10:05:33.435 [DEBUG] player 88 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 89
+2019-04-16 10:05:33.435 [DEBUG] player 89 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 90
+2019-04-16 10:05:33.435 [DEBUG] player 90 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 91
+2019-04-16 10:05:33.435 [DEBUG] player 91 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 92
+2019-04-16 10:05:33.435 [DEBUG] player 92 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 93
+2019-04-16 10:05:33.435 [DEBUG] player 93 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 94
+2019-04-16 10:05:33.435 [DEBUG] player 94 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 95
+2019-04-16 10:05:33.435 [DEBUG] player 95 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 96
+2019-04-16 10:05:33.435 [DEBUG] player 96 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 97
+2019-04-16 10:05:33.435 [DEBUG] player 97 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 98
+2019-04-16 10:05:33.435 [DEBUG] player 98 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 99
+2019-04-16 10:05:33.435 [DEBUG] player 99 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 100
+2019-04-16 10:05:33.435 [DEBUG] player 100 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 101
+2019-04-16 10:05:33.435 [DEBUG] player 101 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 102
+2019-04-16 10:05:33.435 [DEBUG] player 102 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 103
+2019-04-16 10:05:33.435 [DEBUG] player 103 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 104
+2019-04-16 10:05:33.435 [DEBUG] player 104 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 105
+2019-04-16 10:05:33.435 [DEBUG] player 105 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 106
+2019-04-16 10:05:33.435 [DEBUG] player 106 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 107
+2019-04-16 10:05:33.435 [DEBUG] player 107 has been added to world 1
+2019-04-16 10:05:33.435 [DEBUG] added a player with id 108
+2019-04-16 10:05:33.435 [DEBUG] player 108 has been added to world 1
+2019-04-16 10:05:33.436 [DEBUG] added a player with id 109
+2019-04-16 10:05:33.436 [DEBUG] player 109 has been added to world 1
+2019-04-16 10:05:33.436 added 88 player bots to world
+2019-04-16 10:06:14.920 @ addminion 1 12
+2019-04-16 10:06:14.921 [DEBUG] added a player with id 110
+2019-04-16 10:06:14.921 [DEBUG] player 110 has been added to world 1
+2019-04-16 10:06:14.921 [DEBUG] added a player with id 111
+2019-04-16 10:06:14.921 [DEBUG] player 111 has been added to world 1
+2019-04-16 10:06:14.921 [DEBUG] added a player with id 112
+2019-04-16 10:06:14.921 [DEBUG] player 112 has been added to world 1
+2019-04-16 10:06:14.921 [DEBUG] added a player with id 113
+2019-04-16 10:06:14.921 [DEBUG] player 113 has been added to world 1
+2019-04-16 10:06:14.921 [DEBUG] added a player with id 114
+2019-04-16 10:06:14.921 [DEBUG] player 114 has been added to world 1
+2019-04-16 10:06:14.921 [DEBUG] added a player with id 115
+2019-04-16 10:06:14.921 [DEBUG] player 115 has been added to world 1
+2019-04-16 10:06:14.921 [DEBUG] added a player with id 116
+2019-04-16 10:06:14.921 [DEBUG] player 116 has been added to world 1
+2019-04-16 10:06:14.921 [DEBUG] added a player with id 117
+2019-04-16 10:06:14.921 [DEBUG] player 117 has been added to world 1
+2019-04-16 10:06:14.921 [DEBUG] added a player with id 118
+2019-04-16 10:06:14.921 [DEBUG] player 118 has been added to world 1
+2019-04-16 10:06:14.921 [DEBUG] added a player with id 119
+2019-04-16 10:06:14.921 [DEBUG] player 119 has been added to world 1
+2019-04-16 10:06:14.921 [DEBUG] added a player with id 120
+2019-04-16 10:06:14.921 [DEBUG] player 120 has been added to world 1
+2019-04-16 10:06:14.921 [DEBUG] added a player with id 121
+2019-04-16 10:06:14.921 [DEBUG] player 121 has been added to world 1
+2019-04-16 10:06:14.921 added 12 minions to player
+2019-04-16 10:06:21.098 @ addminion 1 100
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 122
+2019-04-16 10:06:21.098 [DEBUG] player 122 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 123
+2019-04-16 10:06:21.098 [DEBUG] player 123 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 124
+2019-04-16 10:06:21.098 [DEBUG] player 124 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 125
+2019-04-16 10:06:21.098 [DEBUG] player 125 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 126
+2019-04-16 10:06:21.098 [DEBUG] player 126 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 127
+2019-04-16 10:06:21.098 [DEBUG] player 127 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 128
+2019-04-16 10:06:21.098 [DEBUG] player 128 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 129
+2019-04-16 10:06:21.098 [DEBUG] player 129 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 130
+2019-04-16 10:06:21.098 [DEBUG] player 130 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 131
+2019-04-16 10:06:21.098 [DEBUG] player 131 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 132
+2019-04-16 10:06:21.098 [DEBUG] player 132 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 133
+2019-04-16 10:06:21.098 [DEBUG] player 133 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 134
+2019-04-16 10:06:21.098 [DEBUG] player 134 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 135
+2019-04-16 10:06:21.098 [DEBUG] player 135 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 136
+2019-04-16 10:06:21.098 [DEBUG] player 136 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 137
+2019-04-16 10:06:21.098 [DEBUG] player 137 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 138
+2019-04-16 10:06:21.098 [DEBUG] player 138 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 139
+2019-04-16 10:06:21.098 [DEBUG] player 139 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 140
+2019-04-16 10:06:21.098 [DEBUG] player 140 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 141
+2019-04-16 10:06:21.098 [DEBUG] player 141 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 142
+2019-04-16 10:06:21.098 [DEBUG] player 142 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 143
+2019-04-16 10:06:21.098 [DEBUG] player 143 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 144
+2019-04-16 10:06:21.098 [DEBUG] player 144 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 145
+2019-04-16 10:06:21.098 [DEBUG] player 145 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 146
+2019-04-16 10:06:21.098 [DEBUG] player 146 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 147
+2019-04-16 10:06:21.098 [DEBUG] player 147 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 148
+2019-04-16 10:06:21.098 [DEBUG] player 148 has been added to world 1
+2019-04-16 10:06:21.098 [DEBUG] added a player with id 149
+2019-04-16 10:06:21.098 [DEBUG] player 149 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 150
+2019-04-16 10:06:21.099 [DEBUG] player 150 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 151
+2019-04-16 10:06:21.099 [DEBUG] player 151 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 152
+2019-04-16 10:06:21.099 [DEBUG] player 152 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 153
+2019-04-16 10:06:21.099 [DEBUG] player 153 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 154
+2019-04-16 10:06:21.099 [DEBUG] player 154 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 155
+2019-04-16 10:06:21.099 [DEBUG] player 155 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 156
+2019-04-16 10:06:21.099 [DEBUG] player 156 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 157
+2019-04-16 10:06:21.099 [DEBUG] player 157 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 158
+2019-04-16 10:06:21.099 [DEBUG] player 158 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 159
+2019-04-16 10:06:21.099 [DEBUG] player 159 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 160
+2019-04-16 10:06:21.099 [DEBUG] player 160 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 161
+2019-04-16 10:06:21.099 [DEBUG] player 161 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 162
+2019-04-16 10:06:21.099 [DEBUG] player 162 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 163
+2019-04-16 10:06:21.099 [DEBUG] player 163 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 164
+2019-04-16 10:06:21.099 [DEBUG] player 164 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 165
+2019-04-16 10:06:21.099 [DEBUG] player 165 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 166
+2019-04-16 10:06:21.099 [DEBUG] player 166 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 167
+2019-04-16 10:06:21.099 [DEBUG] player 167 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 168
+2019-04-16 10:06:21.099 [DEBUG] player 168 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 169
+2019-04-16 10:06:21.099 [DEBUG] player 169 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 170
+2019-04-16 10:06:21.099 [DEBUG] player 170 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 171
+2019-04-16 10:06:21.099 [DEBUG] player 171 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 172
+2019-04-16 10:06:21.099 [DEBUG] player 172 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 173
+2019-04-16 10:06:21.099 [DEBUG] player 173 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 174
+2019-04-16 10:06:21.099 [DEBUG] player 174 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 175
+2019-04-16 10:06:21.099 [DEBUG] player 175 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 176
+2019-04-16 10:06:21.099 [DEBUG] player 176 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 177
+2019-04-16 10:06:21.099 [DEBUG] player 177 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 178
+2019-04-16 10:06:21.099 [DEBUG] player 178 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 179
+2019-04-16 10:06:21.099 [DEBUG] player 179 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 180
+2019-04-16 10:06:21.099 [DEBUG] player 180 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 181
+2019-04-16 10:06:21.099 [DEBUG] player 181 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 182
+2019-04-16 10:06:21.099 [DEBUG] player 182 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 183
+2019-04-16 10:06:21.099 [DEBUG] player 183 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 184
+2019-04-16 10:06:21.099 [DEBUG] player 184 has been added to world 1
+2019-04-16 10:06:21.099 [DEBUG] added a player with id 185
+2019-04-16 10:06:21.099 [DEBUG] player 185 has been added to world 1
+2019-04-16 10:06:21.100 [DEBUG] added a player with id 186
+2019-04-16 10:06:21.100 [DEBUG] player 186 has been added to world 1
+2019-04-16 10:06:21.100 [DEBUG] added a player with id 187
+2019-04-16 10:06:21.100 [DEBUG] player 187 has been added to world 1
+2019-04-16 10:06:21.100 [DEBUG] added a player with id 188
+2019-04-16 10:06:21.100 [DEBUG] player 188 has been added to world 1
+2019-04-16 10:06:21.100 [DEBUG] added a player with id 189
+2019-04-16 10:06:21.100 [DEBUG] player 189 has been added to world 1
+2019-04-16 10:06:21.100 [DEBUG] added a player with id 190
+2019-04-16 10:06:21.100 [DEBUG] player 190 has been added to world 1
+2019-04-16 10:06:21.100 [DEBUG] added a player with id 191
+2019-04-16 10:06:21.100 [DEBUG] player 191 has been added to world 1
+2019-04-16 10:06:21.100 [DEBUG] added a player with id 192
+2019-04-16 10:06:21.100 [DEBUG] player 192 has been added to world 1
+2019-04-16 10:06:21.100 [DEBUG] added a player with id 193
+2019-04-16 10:06:21.100 [DEBUG] player 193 has been added to world 1
+2019-04-16 10:06:21.100 [DEBUG] added a player with id 194
+2019-04-16 10:06:21.100 [DEBUG] player 194 has been added to world 1
+2019-04-16 10:06:21.100 [DEBUG] added a player with id 195
+2019-04-16 10:06:21.100 [DEBUG] player 195 has been added to world 1
+2019-04-16 10:06:21.100 [DEBUG] added a player with id 196
+2019-04-16 10:06:21.100 [DEBUG] player 196 has been added to world 1
+2019-04-16 10:06:21.100 [DEBUG] added a player with id 197
+2019-04-16 10:06:21.100 [DEBUG] player 197 has been added to world 1
+2019-04-16 10:06:21.100 [DEBUG] added a player with id 198
+2019-04-16 10:06:21.100 [DEBUG] player 198 has been added to world 1
+2019-04-16 10:06:21.100 [DEBUG] added a player with id 199
+2019-04-16 10:06:21.100 [DEBUG] player 199 has been added to world 1
+2019-04-16 10:06:21.103 [DEBUG] added a player with id 200
+2019-04-16 10:06:21.103 [DEBUG] player 200 has been added to world 1
+2019-04-16 10:06:21.103 [DEBUG] added a player with id 201
+2019-04-16 10:06:21.103 [DEBUG] player 201 has been added to world 1
+2019-04-16 10:06:21.103 [DEBUG] added a player with id 202
+2019-04-16 10:06:21.103 [DEBUG] player 202 has been added to world 1
+2019-04-16 10:06:21.103 [DEBUG] added a player with id 203
+2019-04-16 10:06:21.103 [DEBUG] player 203 has been added to world 1
+2019-04-16 10:06:21.103 [DEBUG] added a player with id 204
+2019-04-16 10:06:21.103 [DEBUG] player 204 has been added to world 1
+2019-04-16 10:06:21.103 [DEBUG] added a player with id 205
+2019-04-16 10:06:21.103 [DEBUG] player 205 has been added to world 1
+2019-04-16 10:06:21.103 [DEBUG] added a player with id 206
+2019-04-16 10:06:21.103 [DEBUG] player 206 has been added to world 1
+2019-04-16 10:06:21.103 [DEBUG] added a player with id 207
+2019-04-16 10:06:21.103 [DEBUG] player 207 has been added to world 1
+2019-04-16 10:06:21.103 [DEBUG] added a player with id 208
+2019-04-16 10:06:21.103 [DEBUG] player 208 has been added to world 1
+2019-04-16 10:06:21.103 [DEBUG] added a player with id 209
+2019-04-16 10:06:21.103 [DEBUG] player 209 has been added to world 1
+2019-04-16 10:06:21.103 [DEBUG] added a player with id 210
+2019-04-16 10:06:21.103 [DEBUG] player 210 has been added to world 1
+2019-04-16 10:06:21.103 [DEBUG] added a player with id 211
+2019-04-16 10:06:21.103 [DEBUG] player 211 has been added to world 1
+2019-04-16 10:06:21.103 [DEBUG] added a player with id 212
+2019-04-16 10:06:21.103 [DEBUG] player 212 has been added to world 1
+2019-04-16 10:06:21.103 [DEBUG] added a player with id 213
+2019-04-16 10:06:21.103 [DEBUG] player 213 has been added to world 1
+2019-04-16 10:06:21.103 [DEBUG] added a player with id 214
+2019-04-16 10:06:21.103 [DEBUG] player 214 has been added to world 1
+2019-04-16 10:06:21.103 [DEBUG] added a player with id 215
+2019-04-16 10:06:21.104 [DEBUG] player 215 has been added to world 1
+2019-04-16 10:06:21.104 [DEBUG] added a player with id 216
+2019-04-16 10:06:21.104 [DEBUG] player 216 has been added to world 1
+2019-04-16 10:06:21.104 [DEBUG] added a player with id 217
+2019-04-16 10:06:21.104 [DEBUG] player 217 has been added to world 1
+2019-04-16 10:06:21.104 [DEBUG] added a player with id 218
+2019-04-16 10:06:21.104 [DEBUG] player 218 has been added to world 1
+2019-04-16 10:06:21.104 [DEBUG] added a player with id 219
+2019-04-16 10:06:21.104 [DEBUG] player 219 has been added to world 1
+2019-04-16 10:06:21.104 [DEBUG] added a player with id 220
+2019-04-16 10:06:21.104 [DEBUG] player 220 has been added to world 1
+2019-04-16 10:06:21.104 [DEBUG] added a player with id 221
+2019-04-16 10:06:21.104 [DEBUG] player 221 has been added to world 1
+2019-04-16 10:06:21.104 added 100 minions to player
+2019-04-16 10:08:23.983 [FATAL] Error: WebSocket is not open: readyState 2 (CLOSING)
+    at WebSocket.send (C:\Users\detai\Desktop\OgarII-master\node_modules\ws\lib\websocket.js:329:19)
+    at Connection.send (C:\Users\detai\Desktop\OgarII-master\src\sockets\Connection.js:162:24)
+    at LegacyProtocol.send (C:\Users\detai\Desktop\OgarII-master\src\protocols\Protocol.js:86:34)
+    at LegacyProtocol.onVisibleCellUpdate (C:\Users\detai\Desktop\OgarII-master\src\protocols\LegacyProtocol.js:266:14)
+    at Connection.update (C:\Users\detai\Desktop\OgarII-master\src\sockets\Connection.js:146:23)
+    at Listener.update (C:\Users\detai\Desktop\OgarII-master\src\sockets\Listener.js:127:49)
+    at ServerHandle._onTick (C:\Users\detai\Desktop\OgarII-master\src\ServerHandle.js:166:23)
+    at Ticker._tick (C:\Users\detai\Desktop\OgarII-master\src\primitives\Ticker.js:43:30)
+    at listOnTimeout (internal/timers.js:535:17)
+    at processTimers (internal/timers.js:479:7)

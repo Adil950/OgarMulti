@@ -1,0 +1,21 @@
+2020-07-04 23:34:10.333 [INFO] starting
+2020-07-04 23:34:10.335 [DEBUG] listener opening at 443
+2020-07-04 23:34:10.344 [INFO] ticker begin
+2020-07-04 23:34:10.344 [INFO] [1m[32mOgarII[0m[32m 1.2.1[0m
+2020-07-04 23:34:10.346 [INFO] listener open at 443
+2020-07-04 23:34:11.333 [DEBUG] command stream open
+2020-07-04 23:34:17.394 [ACCESS] REQUEST FROM 127.0.0.1, not secure, Origin: https://agar.io
+2020-07-04 23:34:17.395 [DEBUG] client verification passed
+2020-07-04 23:34:17.397 [ACCESS] CONNECTION FROM 127.0.0.1
+2020-07-04 23:34:17.416 [DEBUG] added a player with id 1
+2020-07-04 23:34:17.426 [DEBUG] added a world with id 1
+2020-07-04 23:34:17.430 [DEBUG] player 1 has been added to world 1
+2020-07-04 23:34:17.496 [FATAL] TypeError: writeCellData[this.protocol] is not a function
+    at LegacyProtocol.onVisibleCellUpdate (C:\Users\66\Desktop\OgarII-master\src\protocols\LegacyProtocol.js:253:41)
+    at Connection.update (C:\Users\66\Desktop\OgarII-master\src\sockets\Connection.js:146:23)
+    at Listener.update (C:\Users\66\Desktop\OgarII-master\src\sockets\Listener.js:127:49)
+    at ServerHandle._onTick (C:\Users\66\Desktop\OgarII-master\src\ServerHandle.js:166:23)
+    at Ticker._tick (C:\Users\66\Desktop\OgarII-master\src\primitives\Ticker.js:43:30)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)

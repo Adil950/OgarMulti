@@ -1,0 +1,2819 @@
+2020-07-06 12:19:55.658 [INFO] starting
+2020-07-06 12:19:55.661 [DEBUG] listener opening at 443
+2020-07-06 12:19:55.671 [INFO] ticker begin
+2020-07-06 12:19:55.671 [INFO] OgarII 1.3.6
+2020-07-06 12:19:55.671 [INFO] gamemode: FFA
+2020-07-06 12:19:55.671 [INFO] listener open at 443
+2020-07-06 12:19:56.660 [DEBUG] command stream open
+2020-07-06 12:20:07.118 [ACCESS] REQUEST FROM 127.0.0.1, not secure, Origin: https://agar.io
+2020-07-06 12:20:07.119 [DEBUG] client verification passed
+2020-07-06 12:20:07.121 [ACCESS] CONNECTION FROM 127.0.0.1
+2020-07-06 12:20:07.156 [DEBUG] added a player with id 1
+2020-07-06 12:20:07.191 [DEBUG] added a world with id 1
+2020-07-06 12:20:07.193 [DEBUG] player 1 has been added to world 1
+2020-07-06 12:20:41.543 @ addminion 1 700
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 2
+2020-07-06 12:20:41.544 [DEBUG] player 2 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 3
+2020-07-06 12:20:41.544 [DEBUG] player 3 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 4
+2020-07-06 12:20:41.544 [DEBUG] player 4 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 5
+2020-07-06 12:20:41.544 [DEBUG] player 5 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 6
+2020-07-06 12:20:41.544 [DEBUG] player 6 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 7
+2020-07-06 12:20:41.544 [DEBUG] player 7 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 8
+2020-07-06 12:20:41.544 [DEBUG] player 8 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 9
+2020-07-06 12:20:41.544 [DEBUG] player 9 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 10
+2020-07-06 12:20:41.544 [DEBUG] player 10 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 11
+2020-07-06 12:20:41.544 [DEBUG] player 11 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 12
+2020-07-06 12:20:41.544 [DEBUG] player 12 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 13
+2020-07-06 12:20:41.544 [DEBUG] player 13 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 14
+2020-07-06 12:20:41.544 [DEBUG] player 14 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 15
+2020-07-06 12:20:41.544 [DEBUG] player 15 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 16
+2020-07-06 12:20:41.544 [DEBUG] player 16 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 17
+2020-07-06 12:20:41.544 [DEBUG] player 17 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 18
+2020-07-06 12:20:41.544 [DEBUG] player 18 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 19
+2020-07-06 12:20:41.544 [DEBUG] player 19 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 20
+2020-07-06 12:20:41.544 [DEBUG] player 20 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 21
+2020-07-06 12:20:41.544 [DEBUG] player 21 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 22
+2020-07-06 12:20:41.544 [DEBUG] player 22 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 23
+2020-07-06 12:20:41.544 [DEBUG] player 23 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 24
+2020-07-06 12:20:41.544 [DEBUG] player 24 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 25
+2020-07-06 12:20:41.544 [DEBUG] player 25 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 26
+2020-07-06 12:20:41.544 [DEBUG] player 26 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 27
+2020-07-06 12:20:41.544 [DEBUG] player 27 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 28
+2020-07-06 12:20:41.544 [DEBUG] player 28 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 29
+2020-07-06 12:20:41.544 [DEBUG] player 29 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 30
+2020-07-06 12:20:41.544 [DEBUG] player 30 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 31
+2020-07-06 12:20:41.544 [DEBUG] player 31 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 32
+2020-07-06 12:20:41.544 [DEBUG] player 32 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 33
+2020-07-06 12:20:41.544 [DEBUG] player 33 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 34
+2020-07-06 12:20:41.544 [DEBUG] player 34 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 35
+2020-07-06 12:20:41.544 [DEBUG] player 35 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 36
+2020-07-06 12:20:41.544 [DEBUG] player 36 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 37
+2020-07-06 12:20:41.544 [DEBUG] player 37 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 38
+2020-07-06 12:20:41.544 [DEBUG] player 38 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 39
+2020-07-06 12:20:41.544 [DEBUG] player 39 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 40
+2020-07-06 12:20:41.544 [DEBUG] player 40 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 41
+2020-07-06 12:20:41.544 [DEBUG] player 41 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 42
+2020-07-06 12:20:41.544 [DEBUG] player 42 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 43
+2020-07-06 12:20:41.544 [DEBUG] player 43 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 44
+2020-07-06 12:20:41.544 [DEBUG] player 44 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 45
+2020-07-06 12:20:41.544 [DEBUG] player 45 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 46
+2020-07-06 12:20:41.544 [DEBUG] player 46 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 47
+2020-07-06 12:20:41.544 [DEBUG] player 47 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 48
+2020-07-06 12:20:41.544 [DEBUG] player 48 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 49
+2020-07-06 12:20:41.544 [DEBUG] player 49 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 50
+2020-07-06 12:20:41.544 [DEBUG] player 50 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 51
+2020-07-06 12:20:41.544 [DEBUG] player 51 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 52
+2020-07-06 12:20:41.544 [DEBUG] player 52 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 53
+2020-07-06 12:20:41.544 [DEBUG] player 53 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 54
+2020-07-06 12:20:41.544 [DEBUG] player 54 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 55
+2020-07-06 12:20:41.544 [DEBUG] player 55 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 56
+2020-07-06 12:20:41.544 [DEBUG] player 56 has been added to world 1
+2020-07-06 12:20:41.544 [DEBUG] added a player with id 57
+2020-07-06 12:20:41.545 [DEBUG] player 57 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 58
+2020-07-06 12:20:41.545 [DEBUG] player 58 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 59
+2020-07-06 12:20:41.545 [DEBUG] player 59 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 60
+2020-07-06 12:20:41.545 [DEBUG] player 60 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 61
+2020-07-06 12:20:41.545 [DEBUG] player 61 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 62
+2020-07-06 12:20:41.545 [DEBUG] player 62 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 63
+2020-07-06 12:20:41.545 [DEBUG] player 63 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 64
+2020-07-06 12:20:41.545 [DEBUG] player 64 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 65
+2020-07-06 12:20:41.545 [DEBUG] player 65 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 66
+2020-07-06 12:20:41.545 [DEBUG] player 66 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 67
+2020-07-06 12:20:41.545 [DEBUG] player 67 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 68
+2020-07-06 12:20:41.545 [DEBUG] player 68 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 69
+2020-07-06 12:20:41.545 [DEBUG] player 69 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 70
+2020-07-06 12:20:41.545 [DEBUG] player 70 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 71
+2020-07-06 12:20:41.545 [DEBUG] player 71 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 72
+2020-07-06 12:20:41.545 [DEBUG] player 72 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 73
+2020-07-06 12:20:41.545 [DEBUG] player 73 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 74
+2020-07-06 12:20:41.545 [DEBUG] player 74 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 75
+2020-07-06 12:20:41.545 [DEBUG] player 75 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 76
+2020-07-06 12:20:41.545 [DEBUG] player 76 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 77
+2020-07-06 12:20:41.545 [DEBUG] player 77 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 78
+2020-07-06 12:20:41.545 [DEBUG] player 78 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 79
+2020-07-06 12:20:41.545 [DEBUG] player 79 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 80
+2020-07-06 12:20:41.545 [DEBUG] player 80 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 81
+2020-07-06 12:20:41.545 [DEBUG] player 81 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 82
+2020-07-06 12:20:41.545 [DEBUG] player 82 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 83
+2020-07-06 12:20:41.545 [DEBUG] player 83 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 84
+2020-07-06 12:20:41.545 [DEBUG] player 84 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 85
+2020-07-06 12:20:41.545 [DEBUG] player 85 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 86
+2020-07-06 12:20:41.545 [DEBUG] player 86 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 87
+2020-07-06 12:20:41.545 [DEBUG] player 87 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 88
+2020-07-06 12:20:41.545 [DEBUG] player 88 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 89
+2020-07-06 12:20:41.545 [DEBUG] player 89 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 90
+2020-07-06 12:20:41.545 [DEBUG] player 90 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 91
+2020-07-06 12:20:41.545 [DEBUG] player 91 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 92
+2020-07-06 12:20:41.545 [DEBUG] player 92 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 93
+2020-07-06 12:20:41.545 [DEBUG] player 93 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 94
+2020-07-06 12:20:41.545 [DEBUG] player 94 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 95
+2020-07-06 12:20:41.545 [DEBUG] player 95 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 96
+2020-07-06 12:20:41.545 [DEBUG] player 96 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 97
+2020-07-06 12:20:41.545 [DEBUG] player 97 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 98
+2020-07-06 12:20:41.545 [DEBUG] player 98 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 99
+2020-07-06 12:20:41.545 [DEBUG] player 99 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 100
+2020-07-06 12:20:41.545 [DEBUG] player 100 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 101
+2020-07-06 12:20:41.545 [DEBUG] player 101 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 102
+2020-07-06 12:20:41.545 [DEBUG] player 102 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 103
+2020-07-06 12:20:41.545 [DEBUG] player 103 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 104
+2020-07-06 12:20:41.545 [DEBUG] player 104 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 105
+2020-07-06 12:20:41.545 [DEBUG] player 105 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 106
+2020-07-06 12:20:41.545 [DEBUG] player 106 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 107
+2020-07-06 12:20:41.545 [DEBUG] player 107 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 108
+2020-07-06 12:20:41.545 [DEBUG] player 108 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 109
+2020-07-06 12:20:41.545 [DEBUG] player 109 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 110
+2020-07-06 12:20:41.545 [DEBUG] player 110 has been added to world 1
+2020-07-06 12:20:41.545 [DEBUG] added a player with id 111
+2020-07-06 12:20:41.545 [DEBUG] player 111 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 112
+2020-07-06 12:20:41.546 [DEBUG] player 112 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 113
+2020-07-06 12:20:41.546 [DEBUG] player 113 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 114
+2020-07-06 12:20:41.546 [DEBUG] player 114 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 115
+2020-07-06 12:20:41.546 [DEBUG] player 115 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 116
+2020-07-06 12:20:41.546 [DEBUG] player 116 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 117
+2020-07-06 12:20:41.546 [DEBUG] player 117 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 118
+2020-07-06 12:20:41.546 [DEBUG] player 118 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 119
+2020-07-06 12:20:41.546 [DEBUG] player 119 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 120
+2020-07-06 12:20:41.546 [DEBUG] player 120 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 121
+2020-07-06 12:20:41.546 [DEBUG] player 121 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 122
+2020-07-06 12:20:41.546 [DEBUG] player 122 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 123
+2020-07-06 12:20:41.546 [DEBUG] player 123 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 124
+2020-07-06 12:20:41.546 [DEBUG] player 124 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 125
+2020-07-06 12:20:41.546 [DEBUG] player 125 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 126
+2020-07-06 12:20:41.546 [DEBUG] player 126 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 127
+2020-07-06 12:20:41.546 [DEBUG] player 127 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 128
+2020-07-06 12:20:41.546 [DEBUG] player 128 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 129
+2020-07-06 12:20:41.546 [DEBUG] player 129 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 130
+2020-07-06 12:20:41.546 [DEBUG] player 130 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 131
+2020-07-06 12:20:41.546 [DEBUG] player 131 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 132
+2020-07-06 12:20:41.546 [DEBUG] player 132 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 133
+2020-07-06 12:20:41.546 [DEBUG] player 133 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 134
+2020-07-06 12:20:41.546 [DEBUG] player 134 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 135
+2020-07-06 12:20:41.546 [DEBUG] player 135 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 136
+2020-07-06 12:20:41.546 [DEBUG] player 136 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 137
+2020-07-06 12:20:41.546 [DEBUG] player 137 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 138
+2020-07-06 12:20:41.546 [DEBUG] player 138 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 139
+2020-07-06 12:20:41.546 [DEBUG] player 139 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 140
+2020-07-06 12:20:41.546 [DEBUG] player 140 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 141
+2020-07-06 12:20:41.546 [DEBUG] player 141 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 142
+2020-07-06 12:20:41.546 [DEBUG] player 142 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 143
+2020-07-06 12:20:41.546 [DEBUG] player 143 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 144
+2020-07-06 12:20:41.546 [DEBUG] player 144 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 145
+2020-07-06 12:20:41.546 [DEBUG] player 145 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 146
+2020-07-06 12:20:41.546 [DEBUG] player 146 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 147
+2020-07-06 12:20:41.546 [DEBUG] player 147 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 148
+2020-07-06 12:20:41.546 [DEBUG] player 148 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 149
+2020-07-06 12:20:41.546 [DEBUG] player 149 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 150
+2020-07-06 12:20:41.546 [DEBUG] player 150 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 151
+2020-07-06 12:20:41.546 [DEBUG] player 151 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 152
+2020-07-06 12:20:41.546 [DEBUG] player 152 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 153
+2020-07-06 12:20:41.546 [DEBUG] player 153 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 154
+2020-07-06 12:20:41.546 [DEBUG] player 154 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 155
+2020-07-06 12:20:41.546 [DEBUG] player 155 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 156
+2020-07-06 12:20:41.546 [DEBUG] player 156 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 157
+2020-07-06 12:20:41.546 [DEBUG] player 157 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 158
+2020-07-06 12:20:41.546 [DEBUG] player 158 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 159
+2020-07-06 12:20:41.546 [DEBUG] player 159 has been added to world 1
+2020-07-06 12:20:41.546 [DEBUG] added a player with id 160
+2020-07-06 12:20:41.547 [DEBUG] player 160 has been added to world 1
+2020-07-06 12:20:41.547 [DEBUG] added a player with id 161
+2020-07-06 12:20:41.547 [DEBUG] player 161 has been added to world 1
+2020-07-06 12:20:41.547 [DEBUG] added a player with id 162
+2020-07-06 12:20:41.547 [DEBUG] player 162 has been added to world 1
+2020-07-06 12:20:41.547 [DEBUG] added a player with id 163
+2020-07-06 12:20:41.547 [DEBUG] player 163 has been added to world 1
+2020-07-06 12:20:41.547 [DEBUG] added a player with id 164
+2020-07-06 12:20:41.547 [DEBUG] player 164 has been added to world 1
+2020-07-06 12:20:41.547 [DEBUG] added a player with id 165
+2020-07-06 12:20:41.547 [DEBUG] player 165 has been added to world 1
+2020-07-06 12:20:41.547 [DEBUG] added a player with id 166
+2020-07-06 12:20:41.547 [DEBUG] player 166 has been added to world 1
+2020-07-06 12:20:41.547 [DEBUG] added a player with id 167
+2020-07-06 12:20:41.547 [DEBUG] player 167 has been added to world 1
+2020-07-06 12:20:41.547 [DEBUG] added a player with id 168
+2020-07-06 12:20:41.547 [DEBUG] player 168 has been added to world 1
+2020-07-06 12:20:41.547 [DEBUG] added a player with id 169
+2020-07-06 12:20:41.547 [DEBUG] player 169 has been added to world 1
+2020-07-06 12:20:41.547 [DEBUG] added a player with id 170
+2020-07-06 12:20:41.547 [DEBUG] player 170 has been added to world 1
+2020-07-06 12:20:41.547 [DEBUG] added a player with id 171
+2020-07-06 12:20:41.547 [DEBUG] player 171 has been added to world 1
+2020-07-06 12:20:41.547 [DEBUG] added a player with id 172
+2020-07-06 12:20:41.547 [DEBUG] player 172 has been added to world 1
+2020-07-06 12:20:41.547 [DEBUG] added a player with id 173
+2020-07-06 12:20:41.547 [DEBUG] player 173 has been added to world 1
+2020-07-06 12:20:41.547 [DEBUG] added a player with id 174
+2020-07-06 12:20:41.547 [DEBUG] player 174 has been added to world 1
+2020-07-06 12:20:41.547 [DEBUG] added a player with id 175
+2020-07-06 12:20:41.547 [DEBUG] player 175 has been added to world 1
+2020-07-06 12:20:41.547 [DEBUG] added a player with id 176
+2020-07-06 12:20:41.547 [DEBUG] player 176 has been added to world 1
+2020-07-06 12:20:41.547 [DEBUG] added a player with id 177
+2020-07-06 12:20:41.547 [DEBUG] player 177 has been added to world 1
+2020-07-06 12:20:41.547 [DEBUG] added a player with id 178
+2020-07-06 12:20:41.547 [DEBUG] player 178 has been added to world 1
+2020-07-06 12:20:41.547 [DEBUG] added a player with id 179
+2020-07-06 12:20:41.547 [DEBUG] player 179 has been added to world 1
+2020-07-06 12:20:41.547 [DEBUG] added a player with id 180
+2020-07-06 12:20:41.547 [DEBUG] player 180 has been added to world 1
+2020-07-06 12:20:41.547 [DEBUG] added a player with id 181
+2020-07-06 12:20:41.547 [DEBUG] player 181 has been added to world 1
+2020-07-06 12:20:41.547 [DEBUG] added a player with id 182
+2020-07-06 12:20:41.547 [DEBUG] player 182 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 183
+2020-07-06 12:20:41.548 [DEBUG] player 183 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 184
+2020-07-06 12:20:41.548 [DEBUG] player 184 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 185
+2020-07-06 12:20:41.548 [DEBUG] player 185 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 186
+2020-07-06 12:20:41.548 [DEBUG] player 186 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 187
+2020-07-06 12:20:41.548 [DEBUG] player 187 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 188
+2020-07-06 12:20:41.548 [DEBUG] player 188 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 189
+2020-07-06 12:20:41.548 [DEBUG] player 189 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 190
+2020-07-06 12:20:41.548 [DEBUG] player 190 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 191
+2020-07-06 12:20:41.548 [DEBUG] player 191 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 192
+2020-07-06 12:20:41.548 [DEBUG] player 192 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 193
+2020-07-06 12:20:41.548 [DEBUG] player 193 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 194
+2020-07-06 12:20:41.548 [DEBUG] player 194 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 195
+2020-07-06 12:20:41.548 [DEBUG] player 195 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 196
+2020-07-06 12:20:41.548 [DEBUG] player 196 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 197
+2020-07-06 12:20:41.548 [DEBUG] player 197 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 198
+2020-07-06 12:20:41.548 [DEBUG] player 198 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 199
+2020-07-06 12:20:41.548 [DEBUG] player 199 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 200
+2020-07-06 12:20:41.548 [DEBUG] player 200 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 201
+2020-07-06 12:20:41.548 [DEBUG] player 201 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 202
+2020-07-06 12:20:41.548 [DEBUG] player 202 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 203
+2020-07-06 12:20:41.548 [DEBUG] player 203 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 204
+2020-07-06 12:20:41.548 [DEBUG] player 204 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 205
+2020-07-06 12:20:41.548 [DEBUG] player 205 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 206
+2020-07-06 12:20:41.548 [DEBUG] player 206 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 207
+2020-07-06 12:20:41.548 [DEBUG] player 207 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 208
+2020-07-06 12:20:41.548 [DEBUG] player 208 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 209
+2020-07-06 12:20:41.548 [DEBUG] player 209 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 210
+2020-07-06 12:20:41.548 [DEBUG] player 210 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 211
+2020-07-06 12:20:41.548 [DEBUG] player 211 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 212
+2020-07-06 12:20:41.548 [DEBUG] player 212 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 213
+2020-07-06 12:20:41.548 [DEBUG] player 213 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 214
+2020-07-06 12:20:41.548 [DEBUG] player 214 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 215
+2020-07-06 12:20:41.548 [DEBUG] player 215 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 216
+2020-07-06 12:20:41.548 [DEBUG] player 216 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 217
+2020-07-06 12:20:41.548 [DEBUG] player 217 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 218
+2020-07-06 12:20:41.548 [DEBUG] player 218 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 219
+2020-07-06 12:20:41.548 [DEBUG] player 219 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 220
+2020-07-06 12:20:41.548 [DEBUG] player 220 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 221
+2020-07-06 12:20:41.548 [DEBUG] player 221 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 222
+2020-07-06 12:20:41.548 [DEBUG] player 222 has been added to world 1
+2020-07-06 12:20:41.548 [DEBUG] added a player with id 223
+2020-07-06 12:20:41.548 [DEBUG] player 223 has been added to world 1
+2020-07-06 12:20:41.549 [DEBUG] added a player with id 224
+2020-07-06 12:20:41.549 [DEBUG] player 224 has been added to world 1
+2020-07-06 12:20:41.549 [DEBUG] added a player with id 225
+2020-07-06 12:20:41.549 [DEBUG] player 225 has been added to world 1
+2020-07-06 12:20:41.549 [DEBUG] added a player with id 226
+2020-07-06 12:20:41.549 [DEBUG] player 226 has been added to world 1
+2020-07-06 12:20:41.549 [DEBUG] added a player with id 227
+2020-07-06 12:20:41.549 [DEBUG] player 227 has been added to world 1
+2020-07-06 12:20:41.549 [DEBUG] added a player with id 228
+2020-07-06 12:20:41.549 [DEBUG] player 228 has been added to world 1
+2020-07-06 12:20:41.549 [DEBUG] added a player with id 229
+2020-07-06 12:20:41.549 [DEBUG] player 229 has been added to world 1
+2020-07-06 12:20:41.549 [DEBUG] added a player with id 230
+2020-07-06 12:20:41.549 [DEBUG] player 230 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 231
+2020-07-06 12:20:41.550 [DEBUG] player 231 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 232
+2020-07-06 12:20:41.550 [DEBUG] player 232 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 233
+2020-07-06 12:20:41.550 [DEBUG] player 233 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 234
+2020-07-06 12:20:41.550 [DEBUG] player 234 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 235
+2020-07-06 12:20:41.550 [DEBUG] player 235 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 236
+2020-07-06 12:20:41.550 [DEBUG] player 236 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 237
+2020-07-06 12:20:41.550 [DEBUG] player 237 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 238
+2020-07-06 12:20:41.550 [DEBUG] player 238 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 239
+2020-07-06 12:20:41.550 [DEBUG] player 239 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 240
+2020-07-06 12:20:41.550 [DEBUG] player 240 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 241
+2020-07-06 12:20:41.550 [DEBUG] player 241 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 242
+2020-07-06 12:20:41.550 [DEBUG] player 242 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 243
+2020-07-06 12:20:41.550 [DEBUG] player 243 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 244
+2020-07-06 12:20:41.550 [DEBUG] player 244 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 245
+2020-07-06 12:20:41.550 [DEBUG] player 245 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 246
+2020-07-06 12:20:41.550 [DEBUG] player 246 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 247
+2020-07-06 12:20:41.550 [DEBUG] player 247 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 248
+2020-07-06 12:20:41.550 [DEBUG] player 248 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 249
+2020-07-06 12:20:41.550 [DEBUG] player 249 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 250
+2020-07-06 12:20:41.550 [DEBUG] player 250 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 251
+2020-07-06 12:20:41.550 [DEBUG] player 251 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 252
+2020-07-06 12:20:41.550 [DEBUG] player 252 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 253
+2020-07-06 12:20:41.550 [DEBUG] player 253 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 254
+2020-07-06 12:20:41.550 [DEBUG] player 254 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 255
+2020-07-06 12:20:41.550 [DEBUG] player 255 has been added to world 1
+2020-07-06 12:20:41.550 [DEBUG] added a player with id 256
+2020-07-06 12:20:41.550 [DEBUG] player 256 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 257
+2020-07-06 12:20:41.551 [DEBUG] player 257 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 258
+2020-07-06 12:20:41.551 [DEBUG] player 258 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 259
+2020-07-06 12:20:41.551 [DEBUG] player 259 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 260
+2020-07-06 12:20:41.551 [DEBUG] player 260 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 261
+2020-07-06 12:20:41.551 [DEBUG] player 261 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 262
+2020-07-06 12:20:41.551 [DEBUG] player 262 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 263
+2020-07-06 12:20:41.551 [DEBUG] player 263 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 264
+2020-07-06 12:20:41.551 [DEBUG] player 264 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 265
+2020-07-06 12:20:41.551 [DEBUG] player 265 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 266
+2020-07-06 12:20:41.551 [DEBUG] player 266 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 267
+2020-07-06 12:20:41.551 [DEBUG] player 267 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 268
+2020-07-06 12:20:41.551 [DEBUG] player 268 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 269
+2020-07-06 12:20:41.551 [DEBUG] player 269 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 270
+2020-07-06 12:20:41.551 [DEBUG] player 270 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 271
+2020-07-06 12:20:41.551 [DEBUG] player 271 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 272
+2020-07-06 12:20:41.551 [DEBUG] player 272 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 273
+2020-07-06 12:20:41.551 [DEBUG] player 273 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 274
+2020-07-06 12:20:41.551 [DEBUG] player 274 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 275
+2020-07-06 12:20:41.551 [DEBUG] player 275 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 276
+2020-07-06 12:20:41.551 [DEBUG] player 276 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 277
+2020-07-06 12:20:41.551 [DEBUG] player 277 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 278
+2020-07-06 12:20:41.551 [DEBUG] player 278 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 279
+2020-07-06 12:20:41.551 [DEBUG] player 279 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 280
+2020-07-06 12:20:41.551 [DEBUG] player 280 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 281
+2020-07-06 12:20:41.551 [DEBUG] player 281 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 282
+2020-07-06 12:20:41.551 [DEBUG] player 282 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 283
+2020-07-06 12:20:41.551 [DEBUG] player 283 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 284
+2020-07-06 12:20:41.551 [DEBUG] player 284 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 285
+2020-07-06 12:20:41.551 [DEBUG] player 285 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 286
+2020-07-06 12:20:41.551 [DEBUG] player 286 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 287
+2020-07-06 12:20:41.551 [DEBUG] player 287 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 288
+2020-07-06 12:20:41.551 [DEBUG] player 288 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 289
+2020-07-06 12:20:41.551 [DEBUG] player 289 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 290
+2020-07-06 12:20:41.551 [DEBUG] player 290 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 291
+2020-07-06 12:20:41.551 [DEBUG] player 291 has been added to world 1
+2020-07-06 12:20:41.551 [DEBUG] added a player with id 292
+2020-07-06 12:20:41.551 [DEBUG] player 292 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 293
+2020-07-06 12:20:41.552 [DEBUG] player 293 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 294
+2020-07-06 12:20:41.552 [DEBUG] player 294 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 295
+2020-07-06 12:20:41.552 [DEBUG] player 295 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 296
+2020-07-06 12:20:41.552 [DEBUG] player 296 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 297
+2020-07-06 12:20:41.552 [DEBUG] player 297 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 298
+2020-07-06 12:20:41.552 [DEBUG] player 298 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 299
+2020-07-06 12:20:41.552 [DEBUG] player 299 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 300
+2020-07-06 12:20:41.552 [DEBUG] player 300 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 301
+2020-07-06 12:20:41.552 [DEBUG] player 301 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 302
+2020-07-06 12:20:41.552 [DEBUG] player 302 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 303
+2020-07-06 12:20:41.552 [DEBUG] player 303 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 304
+2020-07-06 12:20:41.552 [DEBUG] player 304 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 305
+2020-07-06 12:20:41.552 [DEBUG] player 305 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 306
+2020-07-06 12:20:41.552 [DEBUG] player 306 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 307
+2020-07-06 12:20:41.552 [DEBUG] player 307 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 308
+2020-07-06 12:20:41.552 [DEBUG] player 308 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 309
+2020-07-06 12:20:41.552 [DEBUG] player 309 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 310
+2020-07-06 12:20:41.552 [DEBUG] player 310 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 311
+2020-07-06 12:20:41.552 [DEBUG] player 311 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 312
+2020-07-06 12:20:41.552 [DEBUG] player 312 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 313
+2020-07-06 12:20:41.552 [DEBUG] player 313 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 314
+2020-07-06 12:20:41.552 [DEBUG] player 314 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 315
+2020-07-06 12:20:41.552 [DEBUG] player 315 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 316
+2020-07-06 12:20:41.552 [DEBUG] player 316 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 317
+2020-07-06 12:20:41.552 [DEBUG] player 317 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 318
+2020-07-06 12:20:41.552 [DEBUG] player 318 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 319
+2020-07-06 12:20:41.552 [DEBUG] player 319 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 320
+2020-07-06 12:20:41.552 [DEBUG] player 320 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 321
+2020-07-06 12:20:41.552 [DEBUG] player 321 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 322
+2020-07-06 12:20:41.552 [DEBUG] player 322 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 323
+2020-07-06 12:20:41.552 [DEBUG] player 323 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 324
+2020-07-06 12:20:41.552 [DEBUG] player 324 has been added to world 1
+2020-07-06 12:20:41.552 [DEBUG] added a player with id 325
+2020-07-06 12:20:41.552 [DEBUG] player 325 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 326
+2020-07-06 12:20:41.553 [DEBUG] player 326 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 327
+2020-07-06 12:20:41.553 [DEBUG] player 327 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 328
+2020-07-06 12:20:41.553 [DEBUG] player 328 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 329
+2020-07-06 12:20:41.553 [DEBUG] player 329 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 330
+2020-07-06 12:20:41.553 [DEBUG] player 330 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 331
+2020-07-06 12:20:41.553 [DEBUG] player 331 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 332
+2020-07-06 12:20:41.553 [DEBUG] player 332 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 333
+2020-07-06 12:20:41.553 [DEBUG] player 333 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 334
+2020-07-06 12:20:41.553 [DEBUG] player 334 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 335
+2020-07-06 12:20:41.553 [DEBUG] player 335 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 336
+2020-07-06 12:20:41.553 [DEBUG] player 336 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 337
+2020-07-06 12:20:41.553 [DEBUG] player 337 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 338
+2020-07-06 12:20:41.553 [DEBUG] player 338 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 339
+2020-07-06 12:20:41.553 [DEBUG] player 339 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 340
+2020-07-06 12:20:41.553 [DEBUG] player 340 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 341
+2020-07-06 12:20:41.553 [DEBUG] player 341 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 342
+2020-07-06 12:20:41.553 [DEBUG] player 342 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 343
+2020-07-06 12:20:41.553 [DEBUG] player 343 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 344
+2020-07-06 12:20:41.553 [DEBUG] player 344 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 345
+2020-07-06 12:20:41.553 [DEBUG] player 345 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 346
+2020-07-06 12:20:41.553 [DEBUG] player 346 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 347
+2020-07-06 12:20:41.553 [DEBUG] player 347 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 348
+2020-07-06 12:20:41.553 [DEBUG] player 348 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 349
+2020-07-06 12:20:41.553 [DEBUG] player 349 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 350
+2020-07-06 12:20:41.553 [DEBUG] player 350 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 351
+2020-07-06 12:20:41.553 [DEBUG] player 351 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 352
+2020-07-06 12:20:41.553 [DEBUG] player 352 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 353
+2020-07-06 12:20:41.553 [DEBUG] player 353 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 354
+2020-07-06 12:20:41.553 [DEBUG] player 354 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 355
+2020-07-06 12:20:41.553 [DEBUG] player 355 has been added to world 1
+2020-07-06 12:20:41.553 [DEBUG] added a player with id 356
+2020-07-06 12:20:41.553 [DEBUG] player 356 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 357
+2020-07-06 12:20:41.555 [DEBUG] player 357 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 358
+2020-07-06 12:20:41.555 [DEBUG] player 358 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 359
+2020-07-06 12:20:41.555 [DEBUG] player 359 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 360
+2020-07-06 12:20:41.555 [DEBUG] player 360 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 361
+2020-07-06 12:20:41.555 [DEBUG] player 361 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 362
+2020-07-06 12:20:41.555 [DEBUG] player 362 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 363
+2020-07-06 12:20:41.555 [DEBUG] player 363 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 364
+2020-07-06 12:20:41.555 [DEBUG] player 364 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 365
+2020-07-06 12:20:41.555 [DEBUG] player 365 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 366
+2020-07-06 12:20:41.555 [DEBUG] player 366 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 367
+2020-07-06 12:20:41.555 [DEBUG] player 367 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 368
+2020-07-06 12:20:41.555 [DEBUG] player 368 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 369
+2020-07-06 12:20:41.555 [DEBUG] player 369 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 370
+2020-07-06 12:20:41.555 [DEBUG] player 370 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 371
+2020-07-06 12:20:41.555 [DEBUG] player 371 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 372
+2020-07-06 12:20:41.555 [DEBUG] player 372 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 373
+2020-07-06 12:20:41.555 [DEBUG] player 373 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 374
+2020-07-06 12:20:41.555 [DEBUG] player 374 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 375
+2020-07-06 12:20:41.555 [DEBUG] player 375 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 376
+2020-07-06 12:20:41.555 [DEBUG] player 376 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 377
+2020-07-06 12:20:41.555 [DEBUG] player 377 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 378
+2020-07-06 12:20:41.555 [DEBUG] player 378 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 379
+2020-07-06 12:20:41.555 [DEBUG] player 379 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 380
+2020-07-06 12:20:41.555 [DEBUG] player 380 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 381
+2020-07-06 12:20:41.555 [DEBUG] player 381 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 382
+2020-07-06 12:20:41.555 [DEBUG] player 382 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 383
+2020-07-06 12:20:41.555 [DEBUG] player 383 has been added to world 1
+2020-07-06 12:20:41.555 [DEBUG] added a player with id 384
+2020-07-06 12:20:41.555 [DEBUG] player 384 has been added to world 1
+2020-07-06 12:20:41.556 [DEBUG] added a player with id 385
+2020-07-06 12:20:41.556 [DEBUG] player 385 has been added to world 1
+2020-07-06 12:20:41.556 [DEBUG] added a player with id 386
+2020-07-06 12:20:41.556 [DEBUG] player 386 has been added to world 1
+2020-07-06 12:20:41.556 [DEBUG] added a player with id 387
+2020-07-06 12:20:41.556 [DEBUG] player 387 has been added to world 1
+2020-07-06 12:20:41.556 [DEBUG] added a player with id 388
+2020-07-06 12:20:41.556 [DEBUG] player 388 has been added to world 1
+2020-07-06 12:20:41.556 [DEBUG] added a player with id 389
+2020-07-06 12:20:41.556 [DEBUG] player 389 has been added to world 1
+2020-07-06 12:20:41.556 [DEBUG] added a player with id 390
+2020-07-06 12:20:41.556 [DEBUG] player 390 has been added to world 1
+2020-07-06 12:20:41.556 [DEBUG] added a player with id 391
+2020-07-06 12:20:41.556 [DEBUG] player 391 has been added to world 1
+2020-07-06 12:20:41.556 [DEBUG] added a player with id 392
+2020-07-06 12:20:41.556 [DEBUG] player 392 has been added to world 1
+2020-07-06 12:20:41.556 [DEBUG] added a player with id 393
+2020-07-06 12:20:41.556 [DEBUG] player 393 has been added to world 1
+2020-07-06 12:20:41.556 [DEBUG] added a player with id 394
+2020-07-06 12:20:41.556 [DEBUG] player 394 has been added to world 1
+2020-07-06 12:20:41.556 [DEBUG] added a player with id 395
+2020-07-06 12:20:41.556 [DEBUG] player 395 has been added to world 1
+2020-07-06 12:20:41.556 [DEBUG] added a player with id 396
+2020-07-06 12:20:41.556 [DEBUG] player 396 has been added to world 1
+2020-07-06 12:20:41.556 [DEBUG] added a player with id 397
+2020-07-06 12:20:41.556 [DEBUG] player 397 has been added to world 1
+2020-07-06 12:20:41.556 [DEBUG] added a player with id 398
+2020-07-06 12:20:41.556 [DEBUG] player 398 has been added to world 1
+2020-07-06 12:20:41.556 [DEBUG] added a player with id 399
+2020-07-06 12:20:41.556 [DEBUG] player 399 has been added to world 1
+2020-07-06 12:20:41.556 [DEBUG] added a player with id 400
+2020-07-06 12:20:41.556 [DEBUG] player 400 has been added to world 1
+2020-07-06 12:20:41.556 [DEBUG] added a player with id 401
+2020-07-06 12:20:41.557 [DEBUG] player 401 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 402
+2020-07-06 12:20:41.557 [DEBUG] player 402 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 403
+2020-07-06 12:20:41.557 [DEBUG] player 403 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 404
+2020-07-06 12:20:41.557 [DEBUG] player 404 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 405
+2020-07-06 12:20:41.557 [DEBUG] player 405 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 406
+2020-07-06 12:20:41.557 [DEBUG] player 406 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 407
+2020-07-06 12:20:41.557 [DEBUG] player 407 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 408
+2020-07-06 12:20:41.557 [DEBUG] player 408 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 409
+2020-07-06 12:20:41.557 [DEBUG] player 409 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 410
+2020-07-06 12:20:41.557 [DEBUG] player 410 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 411
+2020-07-06 12:20:41.557 [DEBUG] player 411 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 412
+2020-07-06 12:20:41.557 [DEBUG] player 412 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 413
+2020-07-06 12:20:41.557 [DEBUG] player 413 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 414
+2020-07-06 12:20:41.557 [DEBUG] player 414 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 415
+2020-07-06 12:20:41.557 [DEBUG] player 415 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 416
+2020-07-06 12:20:41.557 [DEBUG] player 416 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 417
+2020-07-06 12:20:41.557 [DEBUG] player 417 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 418
+2020-07-06 12:20:41.557 [DEBUG] player 418 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 419
+2020-07-06 12:20:41.557 [DEBUG] player 419 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 420
+2020-07-06 12:20:41.557 [DEBUG] player 420 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 421
+2020-07-06 12:20:41.557 [DEBUG] player 421 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 422
+2020-07-06 12:20:41.557 [DEBUG] player 422 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 423
+2020-07-06 12:20:41.557 [DEBUG] player 423 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 424
+2020-07-06 12:20:41.557 [DEBUG] player 424 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 425
+2020-07-06 12:20:41.557 [DEBUG] player 425 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 426
+2020-07-06 12:20:41.557 [DEBUG] player 426 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 427
+2020-07-06 12:20:41.557 [DEBUG] player 427 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 428
+2020-07-06 12:20:41.557 [DEBUG] player 428 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 429
+2020-07-06 12:20:41.557 [DEBUG] player 429 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 430
+2020-07-06 12:20:41.557 [DEBUG] player 430 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 431
+2020-07-06 12:20:41.557 [DEBUG] player 431 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 432
+2020-07-06 12:20:41.557 [DEBUG] player 432 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 433
+2020-07-06 12:20:41.557 [DEBUG] player 433 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 434
+2020-07-06 12:20:41.557 [DEBUG] player 434 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 435
+2020-07-06 12:20:41.557 [DEBUG] player 435 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 436
+2020-07-06 12:20:41.557 [DEBUG] player 436 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 437
+2020-07-06 12:20:41.557 [DEBUG] player 437 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 438
+2020-07-06 12:20:41.557 [DEBUG] player 438 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 439
+2020-07-06 12:20:41.557 [DEBUG] player 439 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 440
+2020-07-06 12:20:41.557 [DEBUG] player 440 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 441
+2020-07-06 12:20:41.557 [DEBUG] player 441 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 442
+2020-07-06 12:20:41.557 [DEBUG] player 442 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 443
+2020-07-06 12:20:41.557 [DEBUG] player 443 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 444
+2020-07-06 12:20:41.557 [DEBUG] player 444 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 445
+2020-07-06 12:20:41.557 [DEBUG] player 445 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 446
+2020-07-06 12:20:41.557 [DEBUG] player 446 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 447
+2020-07-06 12:20:41.557 [DEBUG] player 447 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 448
+2020-07-06 12:20:41.557 [DEBUG] player 448 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 449
+2020-07-06 12:20:41.557 [DEBUG] player 449 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 450
+2020-07-06 12:20:41.557 [DEBUG] player 450 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 451
+2020-07-06 12:20:41.557 [DEBUG] player 451 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 452
+2020-07-06 12:20:41.557 [DEBUG] player 452 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 453
+2020-07-06 12:20:41.557 [DEBUG] player 453 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 454
+2020-07-06 12:20:41.557 [DEBUG] player 454 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 455
+2020-07-06 12:20:41.557 [DEBUG] player 455 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 456
+2020-07-06 12:20:41.557 [DEBUG] player 456 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 457
+2020-07-06 12:20:41.557 [DEBUG] player 457 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 458
+2020-07-06 12:20:41.557 [DEBUG] player 458 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 459
+2020-07-06 12:20:41.557 [DEBUG] player 459 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 460
+2020-07-06 12:20:41.557 [DEBUG] player 460 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 461
+2020-07-06 12:20:41.557 [DEBUG] player 461 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 462
+2020-07-06 12:20:41.557 [DEBUG] player 462 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 463
+2020-07-06 12:20:41.557 [DEBUG] player 463 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 464
+2020-07-06 12:20:41.557 [DEBUG] player 464 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 465
+2020-07-06 12:20:41.557 [DEBUG] player 465 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 466
+2020-07-06 12:20:41.557 [DEBUG] player 466 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 467
+2020-07-06 12:20:41.557 [DEBUG] player 467 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 468
+2020-07-06 12:20:41.557 [DEBUG] player 468 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 469
+2020-07-06 12:20:41.557 [DEBUG] player 469 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 470
+2020-07-06 12:20:41.557 [DEBUG] player 470 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 471
+2020-07-06 12:20:41.557 [DEBUG] player 471 has been added to world 1
+2020-07-06 12:20:41.557 [DEBUG] added a player with id 472
+2020-07-06 12:20:41.557 [DEBUG] player 472 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 473
+2020-07-06 12:20:41.559 [DEBUG] player 473 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 474
+2020-07-06 12:20:41.559 [DEBUG] player 474 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 475
+2020-07-06 12:20:41.559 [DEBUG] player 475 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 476
+2020-07-06 12:20:41.559 [DEBUG] player 476 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 477
+2020-07-06 12:20:41.559 [DEBUG] player 477 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 478
+2020-07-06 12:20:41.559 [DEBUG] player 478 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 479
+2020-07-06 12:20:41.559 [DEBUG] player 479 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 480
+2020-07-06 12:20:41.559 [DEBUG] player 480 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 481
+2020-07-06 12:20:41.559 [DEBUG] player 481 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 482
+2020-07-06 12:20:41.559 [DEBUG] player 482 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 483
+2020-07-06 12:20:41.559 [DEBUG] player 483 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 484
+2020-07-06 12:20:41.559 [DEBUG] player 484 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 485
+2020-07-06 12:20:41.559 [DEBUG] player 485 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 486
+2020-07-06 12:20:41.559 [DEBUG] player 486 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 487
+2020-07-06 12:20:41.559 [DEBUG] player 487 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 488
+2020-07-06 12:20:41.559 [DEBUG] player 488 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 489
+2020-07-06 12:20:41.559 [DEBUG] player 489 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 490
+2020-07-06 12:20:41.559 [DEBUG] player 490 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 491
+2020-07-06 12:20:41.559 [DEBUG] player 491 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 492
+2020-07-06 12:20:41.559 [DEBUG] player 492 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 493
+2020-07-06 12:20:41.559 [DEBUG] player 493 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 494
+2020-07-06 12:20:41.559 [DEBUG] player 494 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 495
+2020-07-06 12:20:41.559 [DEBUG] player 495 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 496
+2020-07-06 12:20:41.559 [DEBUG] player 496 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 497
+2020-07-06 12:20:41.559 [DEBUG] player 497 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 498
+2020-07-06 12:20:41.559 [DEBUG] player 498 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 499
+2020-07-06 12:20:41.559 [DEBUG] player 499 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 500
+2020-07-06 12:20:41.559 [DEBUG] player 500 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 501
+2020-07-06 12:20:41.559 [DEBUG] player 501 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 502
+2020-07-06 12:20:41.559 [DEBUG] player 502 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 503
+2020-07-06 12:20:41.559 [DEBUG] player 503 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 504
+2020-07-06 12:20:41.559 [DEBUG] player 504 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 505
+2020-07-06 12:20:41.559 [DEBUG] player 505 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 506
+2020-07-06 12:20:41.559 [DEBUG] player 506 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 507
+2020-07-06 12:20:41.559 [DEBUG] player 507 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 508
+2020-07-06 12:20:41.559 [DEBUG] player 508 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 509
+2020-07-06 12:20:41.559 [DEBUG] player 509 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 510
+2020-07-06 12:20:41.559 [DEBUG] player 510 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 511
+2020-07-06 12:20:41.559 [DEBUG] player 511 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 512
+2020-07-06 12:20:41.559 [DEBUG] player 512 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 513
+2020-07-06 12:20:41.559 [DEBUG] player 513 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 514
+2020-07-06 12:20:41.559 [DEBUG] player 514 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 515
+2020-07-06 12:20:41.559 [DEBUG] player 515 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 516
+2020-07-06 12:20:41.559 [DEBUG] player 516 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 517
+2020-07-06 12:20:41.559 [DEBUG] player 517 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 518
+2020-07-06 12:20:41.559 [DEBUG] player 518 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 519
+2020-07-06 12:20:41.559 [DEBUG] player 519 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 520
+2020-07-06 12:20:41.559 [DEBUG] player 520 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 521
+2020-07-06 12:20:41.559 [DEBUG] player 521 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 522
+2020-07-06 12:20:41.559 [DEBUG] player 522 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 523
+2020-07-06 12:20:41.559 [DEBUG] player 523 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 524
+2020-07-06 12:20:41.559 [DEBUG] player 524 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 525
+2020-07-06 12:20:41.559 [DEBUG] player 525 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 526
+2020-07-06 12:20:41.559 [DEBUG] player 526 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 527
+2020-07-06 12:20:41.559 [DEBUG] player 527 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 528
+2020-07-06 12:20:41.559 [DEBUG] player 528 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 529
+2020-07-06 12:20:41.559 [DEBUG] player 529 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 530
+2020-07-06 12:20:41.559 [DEBUG] player 530 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 531
+2020-07-06 12:20:41.559 [DEBUG] player 531 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 532
+2020-07-06 12:20:41.559 [DEBUG] player 532 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 533
+2020-07-06 12:20:41.559 [DEBUG] player 533 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 534
+2020-07-06 12:20:41.559 [DEBUG] player 534 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 535
+2020-07-06 12:20:41.559 [DEBUG] player 535 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 536
+2020-07-06 12:20:41.559 [DEBUG] player 536 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 537
+2020-07-06 12:20:41.559 [DEBUG] player 537 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 538
+2020-07-06 12:20:41.559 [DEBUG] player 538 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 539
+2020-07-06 12:20:41.559 [DEBUG] player 539 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 540
+2020-07-06 12:20:41.559 [DEBUG] player 540 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 541
+2020-07-06 12:20:41.559 [DEBUG] player 541 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 542
+2020-07-06 12:20:41.559 [DEBUG] player 542 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 543
+2020-07-06 12:20:41.559 [DEBUG] player 543 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 544
+2020-07-06 12:20:41.559 [DEBUG] player 544 has been added to world 1
+2020-07-06 12:20:41.559 [DEBUG] added a player with id 545
+2020-07-06 12:20:41.559 [DEBUG] player 545 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 546
+2020-07-06 12:20:41.560 [DEBUG] player 546 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 547
+2020-07-06 12:20:41.560 [DEBUG] player 547 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 548
+2020-07-06 12:20:41.560 [DEBUG] player 548 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 549
+2020-07-06 12:20:41.560 [DEBUG] player 549 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 550
+2020-07-06 12:20:41.560 [DEBUG] player 550 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 551
+2020-07-06 12:20:41.560 [DEBUG] player 551 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 552
+2020-07-06 12:20:41.560 [DEBUG] player 552 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 553
+2020-07-06 12:20:41.560 [DEBUG] player 553 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 554
+2020-07-06 12:20:41.560 [DEBUG] player 554 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 555
+2020-07-06 12:20:41.560 [DEBUG] player 555 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 556
+2020-07-06 12:20:41.560 [DEBUG] player 556 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 557
+2020-07-06 12:20:41.560 [DEBUG] player 557 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 558
+2020-07-06 12:20:41.560 [DEBUG] player 558 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 559
+2020-07-06 12:20:41.560 [DEBUG] player 559 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 560
+2020-07-06 12:20:41.560 [DEBUG] player 560 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 561
+2020-07-06 12:20:41.560 [DEBUG] player 561 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 562
+2020-07-06 12:20:41.560 [DEBUG] player 562 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 563
+2020-07-06 12:20:41.560 [DEBUG] player 563 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 564
+2020-07-06 12:20:41.560 [DEBUG] player 564 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 565
+2020-07-06 12:20:41.560 [DEBUG] player 565 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 566
+2020-07-06 12:20:41.560 [DEBUG] player 566 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 567
+2020-07-06 12:20:41.560 [DEBUG] player 567 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 568
+2020-07-06 12:20:41.560 [DEBUG] player 568 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 569
+2020-07-06 12:20:41.560 [DEBUG] player 569 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 570
+2020-07-06 12:20:41.560 [DEBUG] player 570 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 571
+2020-07-06 12:20:41.560 [DEBUG] player 571 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 572
+2020-07-06 12:20:41.560 [DEBUG] player 572 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 573
+2020-07-06 12:20:41.560 [DEBUG] player 573 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 574
+2020-07-06 12:20:41.560 [DEBUG] player 574 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 575
+2020-07-06 12:20:41.560 [DEBUG] player 575 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 576
+2020-07-06 12:20:41.560 [DEBUG] player 576 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 577
+2020-07-06 12:20:41.560 [DEBUG] player 577 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 578
+2020-07-06 12:20:41.560 [DEBUG] player 578 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 579
+2020-07-06 12:20:41.560 [DEBUG] player 579 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 580
+2020-07-06 12:20:41.560 [DEBUG] player 580 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 581
+2020-07-06 12:20:41.560 [DEBUG] player 581 has been added to world 1
+2020-07-06 12:20:41.560 [DEBUG] added a player with id 582
+2020-07-06 12:20:41.560 [DEBUG] player 582 has been added to world 1
+2020-07-06 12:20:41.561 [DEBUG] added a player with id 583
+2020-07-06 12:20:41.561 [DEBUG] player 583 has been added to world 1
+2020-07-06 12:20:41.561 [DEBUG] added a player with id 584
+2020-07-06 12:20:41.561 [DEBUG] player 584 has been added to world 1
+2020-07-06 12:20:41.561 [DEBUG] added a player with id 585
+2020-07-06 12:20:41.561 [DEBUG] player 585 has been added to world 1
+2020-07-06 12:20:41.561 [DEBUG] added a player with id 586
+2020-07-06 12:20:41.561 [DEBUG] player 586 has been added to world 1
+2020-07-06 12:20:41.561 [DEBUG] added a player with id 587
+2020-07-06 12:20:41.561 [DEBUG] player 587 has been added to world 1
+2020-07-06 12:20:41.561 [DEBUG] added a player with id 588
+2020-07-06 12:20:41.561 [DEBUG] player 588 has been added to world 1
+2020-07-06 12:20:41.561 [DEBUG] added a player with id 589
+2020-07-06 12:20:41.561 [DEBUG] player 589 has been added to world 1
+2020-07-06 12:20:41.561 [DEBUG] added a player with id 590
+2020-07-06 12:20:41.561 [DEBUG] player 590 has been added to world 1
+2020-07-06 12:20:41.561 [DEBUG] added a player with id 591
+2020-07-06 12:20:41.561 [DEBUG] player 591 has been added to world 1
+2020-07-06 12:20:41.561 [DEBUG] added a player with id 592
+2020-07-06 12:20:41.561 [DEBUG] player 592 has been added to world 1
+2020-07-06 12:20:41.561 [DEBUG] added a player with id 593
+2020-07-06 12:20:41.561 [DEBUG] player 593 has been added to world 1
+2020-07-06 12:20:41.561 [DEBUG] added a player with id 594
+2020-07-06 12:20:41.561 [DEBUG] player 594 has been added to world 1
+2020-07-06 12:20:41.561 [DEBUG] added a player with id 595
+2020-07-06 12:20:41.561 [DEBUG] player 595 has been added to world 1
+2020-07-06 12:20:41.561 [DEBUG] added a player with id 596
+2020-07-06 12:20:41.561 [DEBUG] player 596 has been added to world 1
+2020-07-06 12:20:41.561 [DEBUG] added a player with id 597
+2020-07-06 12:20:41.561 [DEBUG] player 597 has been added to world 1
+2020-07-06 12:20:41.561 [DEBUG] added a player with id 598
+2020-07-06 12:20:41.561 [DEBUG] player 598 has been added to world 1
+2020-07-06 12:20:41.561 [DEBUG] added a player with id 599
+2020-07-06 12:20:41.561 [DEBUG] player 599 has been added to world 1
+2020-07-06 12:20:41.561 [DEBUG] added a player with id 600
+2020-07-06 12:20:41.561 [DEBUG] player 600 has been added to world 1
+2020-07-06 12:20:41.561 [DEBUG] added a player with id 601
+2020-07-06 12:20:41.561 [DEBUG] player 601 has been added to world 1
+2020-07-06 12:20:41.561 [DEBUG] added a player with id 602
+2020-07-06 12:20:41.561 [DEBUG] player 602 has been added to world 1
+2020-07-06 12:20:41.561 [DEBUG] added a player with id 603
+2020-07-06 12:20:41.561 [DEBUG] player 603 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 604
+2020-07-06 12:20:41.562 [DEBUG] player 604 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 605
+2020-07-06 12:20:41.562 [DEBUG] player 605 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 606
+2020-07-06 12:20:41.562 [DEBUG] player 606 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 607
+2020-07-06 12:20:41.562 [DEBUG] player 607 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 608
+2020-07-06 12:20:41.562 [DEBUG] player 608 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 609
+2020-07-06 12:20:41.562 [DEBUG] player 609 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 610
+2020-07-06 12:20:41.562 [DEBUG] player 610 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 611
+2020-07-06 12:20:41.562 [DEBUG] player 611 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 612
+2020-07-06 12:20:41.562 [DEBUG] player 612 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 613
+2020-07-06 12:20:41.562 [DEBUG] player 613 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 614
+2020-07-06 12:20:41.562 [DEBUG] player 614 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 615
+2020-07-06 12:20:41.562 [DEBUG] player 615 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 616
+2020-07-06 12:20:41.562 [DEBUG] player 616 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 617
+2020-07-06 12:20:41.562 [DEBUG] player 617 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 618
+2020-07-06 12:20:41.562 [DEBUG] player 618 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 619
+2020-07-06 12:20:41.562 [DEBUG] player 619 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 620
+2020-07-06 12:20:41.562 [DEBUG] player 620 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 621
+2020-07-06 12:20:41.562 [DEBUG] player 621 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 622
+2020-07-06 12:20:41.562 [DEBUG] player 622 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 623
+2020-07-06 12:20:41.562 [DEBUG] player 623 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 624
+2020-07-06 12:20:41.562 [DEBUG] player 624 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 625
+2020-07-06 12:20:41.562 [DEBUG] player 625 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 626
+2020-07-06 12:20:41.562 [DEBUG] player 626 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 627
+2020-07-06 12:20:41.562 [DEBUG] player 627 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 628
+2020-07-06 12:20:41.562 [DEBUG] player 628 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 629
+2020-07-06 12:20:41.562 [DEBUG] player 629 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 630
+2020-07-06 12:20:41.562 [DEBUG] player 630 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 631
+2020-07-06 12:20:41.562 [DEBUG] player 631 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 632
+2020-07-06 12:20:41.562 [DEBUG] player 632 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 633
+2020-07-06 12:20:41.562 [DEBUG] player 633 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 634
+2020-07-06 12:20:41.562 [DEBUG] player 634 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 635
+2020-07-06 12:20:41.562 [DEBUG] player 635 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 636
+2020-07-06 12:20:41.562 [DEBUG] player 636 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 637
+2020-07-06 12:20:41.562 [DEBUG] player 637 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 638
+2020-07-06 12:20:41.562 [DEBUG] player 638 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 639
+2020-07-06 12:20:41.562 [DEBUG] player 639 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 640
+2020-07-06 12:20:41.562 [DEBUG] player 640 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 641
+2020-07-06 12:20:41.562 [DEBUG] player 641 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 642
+2020-07-06 12:20:41.562 [DEBUG] player 642 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 643
+2020-07-06 12:20:41.562 [DEBUG] player 643 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 644
+2020-07-06 12:20:41.562 [DEBUG] player 644 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 645
+2020-07-06 12:20:41.562 [DEBUG] player 645 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 646
+2020-07-06 12:20:41.562 [DEBUG] player 646 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 647
+2020-07-06 12:20:41.562 [DEBUG] player 647 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 648
+2020-07-06 12:20:41.562 [DEBUG] player 648 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 649
+2020-07-06 12:20:41.562 [DEBUG] player 649 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 650
+2020-07-06 12:20:41.562 [DEBUG] player 650 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 651
+2020-07-06 12:20:41.562 [DEBUG] player 651 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 652
+2020-07-06 12:20:41.562 [DEBUG] player 652 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 653
+2020-07-06 12:20:41.562 [DEBUG] player 653 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 654
+2020-07-06 12:20:41.562 [DEBUG] player 654 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 655
+2020-07-06 12:20:41.562 [DEBUG] player 655 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 656
+2020-07-06 12:20:41.562 [DEBUG] player 656 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 657
+2020-07-06 12:20:41.562 [DEBUG] player 657 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 658
+2020-07-06 12:20:41.562 [DEBUG] player 658 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 659
+2020-07-06 12:20:41.562 [DEBUG] player 659 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 660
+2020-07-06 12:20:41.562 [DEBUG] player 660 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 661
+2020-07-06 12:20:41.562 [DEBUG] player 661 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 662
+2020-07-06 12:20:41.562 [DEBUG] player 662 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 663
+2020-07-06 12:20:41.562 [DEBUG] player 663 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 664
+2020-07-06 12:20:41.562 [DEBUG] player 664 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 665
+2020-07-06 12:20:41.562 [DEBUG] player 665 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 666
+2020-07-06 12:20:41.562 [DEBUG] player 666 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 667
+2020-07-06 12:20:41.562 [DEBUG] player 667 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 668
+2020-07-06 12:20:41.562 [DEBUG] player 668 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 669
+2020-07-06 12:20:41.562 [DEBUG] player 669 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 670
+2020-07-06 12:20:41.562 [DEBUG] player 670 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 671
+2020-07-06 12:20:41.562 [DEBUG] player 671 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 672
+2020-07-06 12:20:41.562 [DEBUG] player 672 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 673
+2020-07-06 12:20:41.562 [DEBUG] player 673 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 674
+2020-07-06 12:20:41.562 [DEBUG] player 674 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 675
+2020-07-06 12:20:41.562 [DEBUG] player 675 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 676
+2020-07-06 12:20:41.562 [DEBUG] player 676 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 677
+2020-07-06 12:20:41.562 [DEBUG] player 677 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 678
+2020-07-06 12:20:41.562 [DEBUG] player 678 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 679
+2020-07-06 12:20:41.562 [DEBUG] player 679 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 680
+2020-07-06 12:20:41.562 [DEBUG] player 680 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 681
+2020-07-06 12:20:41.562 [DEBUG] player 681 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 682
+2020-07-06 12:20:41.562 [DEBUG] player 682 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 683
+2020-07-06 12:20:41.562 [DEBUG] player 683 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 684
+2020-07-06 12:20:41.562 [DEBUG] player 684 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 685
+2020-07-06 12:20:41.562 [DEBUG] player 685 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 686
+2020-07-06 12:20:41.562 [DEBUG] player 686 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 687
+2020-07-06 12:20:41.562 [DEBUG] player 687 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 688
+2020-07-06 12:20:41.562 [DEBUG] player 688 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 689
+2020-07-06 12:20:41.562 [DEBUG] player 689 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 690
+2020-07-06 12:20:41.562 [DEBUG] player 690 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 691
+2020-07-06 12:20:41.562 [DEBUG] player 691 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 692
+2020-07-06 12:20:41.562 [DEBUG] player 692 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 693
+2020-07-06 12:20:41.562 [DEBUG] player 693 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 694
+2020-07-06 12:20:41.562 [DEBUG] player 694 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 695
+2020-07-06 12:20:41.562 [DEBUG] player 695 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 696
+2020-07-06 12:20:41.562 [DEBUG] player 696 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 697
+2020-07-06 12:20:41.562 [DEBUG] player 697 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 698
+2020-07-06 12:20:41.562 [DEBUG] player 698 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 699
+2020-07-06 12:20:41.562 [DEBUG] player 699 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 700
+2020-07-06 12:20:41.562 [DEBUG] player 700 has been added to world 1
+2020-07-06 12:20:41.562 [DEBUG] added a player with id 701
+2020-07-06 12:20:41.562 [DEBUG] player 701 has been added to world 1
+2020-07-06 12:20:41.562 added 700 minions to player
+2020-07-06 12:23:56.956 [ACCESS] DISCONNECTION FROM 127.0.0.1 (1003 'Maximum dormancy time exceeded')
+2020-07-06 12:23:56.956 [DEBUG] player 2 has been removed from world 1
+2020-07-06 12:23:56.956 [DEBUG] removed player with id 2
+2020-07-06 12:23:56.957 [DEBUG] player 3 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 3
+2020-07-06 12:23:56.957 [DEBUG] player 4 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 4
+2020-07-06 12:23:56.957 [DEBUG] player 5 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 5
+2020-07-06 12:23:56.957 [DEBUG] player 6 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 6
+2020-07-06 12:23:56.957 [DEBUG] player 7 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 7
+2020-07-06 12:23:56.957 [DEBUG] player 8 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 8
+2020-07-06 12:23:56.957 [DEBUG] player 9 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 9
+2020-07-06 12:23:56.957 [DEBUG] player 10 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 10
+2020-07-06 12:23:56.957 [DEBUG] player 11 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 11
+2020-07-06 12:23:56.957 [DEBUG] player 12 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 12
+2020-07-06 12:23:56.957 [DEBUG] player 13 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 13
+2020-07-06 12:23:56.957 [DEBUG] player 14 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 14
+2020-07-06 12:23:56.957 [DEBUG] player 15 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 15
+2020-07-06 12:23:56.957 [DEBUG] player 16 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 16
+2020-07-06 12:23:56.957 [DEBUG] player 17 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 17
+2020-07-06 12:23:56.957 [DEBUG] player 18 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 18
+2020-07-06 12:23:56.957 [DEBUG] player 19 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 19
+2020-07-06 12:23:56.957 [DEBUG] player 20 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 20
+2020-07-06 12:23:56.957 [DEBUG] player 21 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 21
+2020-07-06 12:23:56.957 [DEBUG] player 22 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 22
+2020-07-06 12:23:56.957 [DEBUG] player 23 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 23
+2020-07-06 12:23:56.957 [DEBUG] player 24 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 24
+2020-07-06 12:23:56.957 [DEBUG] player 25 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 25
+2020-07-06 12:23:56.957 [DEBUG] player 26 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 26
+2020-07-06 12:23:56.957 [DEBUG] player 27 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 27
+2020-07-06 12:23:56.957 [DEBUG] player 28 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 28
+2020-07-06 12:23:56.957 [DEBUG] player 29 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 29
+2020-07-06 12:23:56.957 [DEBUG] player 30 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 30
+2020-07-06 12:23:56.957 [DEBUG] player 31 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 31
+2020-07-06 12:23:56.957 [DEBUG] player 32 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 32
+2020-07-06 12:23:56.957 [DEBUG] player 33 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 33
+2020-07-06 12:23:56.957 [DEBUG] player 34 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 34
+2020-07-06 12:23:56.957 [DEBUG] player 35 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 35
+2020-07-06 12:23:56.957 [DEBUG] player 36 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 36
+2020-07-06 12:23:56.957 [DEBUG] player 37 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 37
+2020-07-06 12:23:56.957 [DEBUG] player 38 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 38
+2020-07-06 12:23:56.957 [DEBUG] player 39 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 39
+2020-07-06 12:23:56.957 [DEBUG] player 40 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 40
+2020-07-06 12:23:56.957 [DEBUG] player 41 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 41
+2020-07-06 12:23:56.957 [DEBUG] player 42 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 42
+2020-07-06 12:23:56.957 [DEBUG] player 43 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 43
+2020-07-06 12:23:56.957 [DEBUG] player 44 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 44
+2020-07-06 12:23:56.957 [DEBUG] player 45 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 45
+2020-07-06 12:23:56.957 [DEBUG] player 46 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 46
+2020-07-06 12:23:56.957 [DEBUG] player 47 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 47
+2020-07-06 12:23:56.957 [DEBUG] player 48 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 48
+2020-07-06 12:23:56.957 [DEBUG] player 49 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 49
+2020-07-06 12:23:56.957 [DEBUG] player 50 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 50
+2020-07-06 12:23:56.957 [DEBUG] player 51 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 51
+2020-07-06 12:23:56.957 [DEBUG] player 52 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 52
+2020-07-06 12:23:56.957 [DEBUG] player 53 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 53
+2020-07-06 12:23:56.957 [DEBUG] player 54 has been removed from world 1
+2020-07-06 12:23:56.957 [DEBUG] removed player with id 54
+2020-07-06 12:23:56.958 [DEBUG] player 55 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 55
+2020-07-06 12:23:56.958 [DEBUG] player 56 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 56
+2020-07-06 12:23:56.958 [DEBUG] player 57 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 57
+2020-07-06 12:23:56.958 [DEBUG] player 58 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 58
+2020-07-06 12:23:56.958 [DEBUG] player 59 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 59
+2020-07-06 12:23:56.958 [DEBUG] player 60 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 60
+2020-07-06 12:23:56.958 [DEBUG] player 61 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 61
+2020-07-06 12:23:56.958 [DEBUG] player 62 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 62
+2020-07-06 12:23:56.958 [DEBUG] player 63 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 63
+2020-07-06 12:23:56.958 [DEBUG] player 64 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 64
+2020-07-06 12:23:56.958 [DEBUG] player 65 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 65
+2020-07-06 12:23:56.958 [DEBUG] player 66 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 66
+2020-07-06 12:23:56.958 [DEBUG] player 67 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 67
+2020-07-06 12:23:56.958 [DEBUG] player 68 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 68
+2020-07-06 12:23:56.958 [DEBUG] player 69 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 69
+2020-07-06 12:23:56.958 [DEBUG] player 70 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 70
+2020-07-06 12:23:56.958 [DEBUG] player 71 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 71
+2020-07-06 12:23:56.958 [DEBUG] player 72 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 72
+2020-07-06 12:23:56.958 [DEBUG] player 73 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 73
+2020-07-06 12:23:56.958 [DEBUG] player 74 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 74
+2020-07-06 12:23:56.958 [DEBUG] player 75 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 75
+2020-07-06 12:23:56.958 [DEBUG] player 76 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 76
+2020-07-06 12:23:56.958 [DEBUG] player 77 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 77
+2020-07-06 12:23:56.958 [DEBUG] player 78 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 78
+2020-07-06 12:23:56.958 [DEBUG] player 79 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 79
+2020-07-06 12:23:56.958 [DEBUG] player 80 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 80
+2020-07-06 12:23:56.958 [DEBUG] player 81 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 81
+2020-07-06 12:23:56.958 [DEBUG] player 82 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 82
+2020-07-06 12:23:56.958 [DEBUG] player 83 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 83
+2020-07-06 12:23:56.958 [DEBUG] player 84 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 84
+2020-07-06 12:23:56.958 [DEBUG] player 85 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 85
+2020-07-06 12:23:56.958 [DEBUG] player 86 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 86
+2020-07-06 12:23:56.958 [DEBUG] player 87 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 87
+2020-07-06 12:23:56.958 [DEBUG] player 88 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 88
+2020-07-06 12:23:56.958 [DEBUG] player 89 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 89
+2020-07-06 12:23:56.958 [DEBUG] player 90 has been removed from world 1
+2020-07-06 12:23:56.958 [DEBUG] removed player with id 90
+2020-07-06 12:23:56.959 [DEBUG] player 91 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 91
+2020-07-06 12:23:56.959 [DEBUG] player 92 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 92
+2020-07-06 12:23:56.959 [DEBUG] player 93 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 93
+2020-07-06 12:23:56.959 [DEBUG] player 94 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 94
+2020-07-06 12:23:56.959 [DEBUG] player 95 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 95
+2020-07-06 12:23:56.959 [DEBUG] player 96 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 96
+2020-07-06 12:23:56.959 [DEBUG] player 97 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 97
+2020-07-06 12:23:56.959 [DEBUG] player 98 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 98
+2020-07-06 12:23:56.959 [DEBUG] player 99 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 99
+2020-07-06 12:23:56.959 [DEBUG] player 100 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 100
+2020-07-06 12:23:56.959 [DEBUG] player 101 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 101
+2020-07-06 12:23:56.959 [DEBUG] player 102 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 102
+2020-07-06 12:23:56.959 [DEBUG] player 103 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 103
+2020-07-06 12:23:56.959 [DEBUG] player 104 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 104
+2020-07-06 12:23:56.959 [DEBUG] player 105 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 105
+2020-07-06 12:23:56.959 [DEBUG] player 106 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 106
+2020-07-06 12:23:56.959 [DEBUG] player 107 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 107
+2020-07-06 12:23:56.959 [DEBUG] player 108 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 108
+2020-07-06 12:23:56.959 [DEBUG] player 109 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 109
+2020-07-06 12:23:56.959 [DEBUG] player 110 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 110
+2020-07-06 12:23:56.959 [DEBUG] player 111 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 111
+2020-07-06 12:23:56.959 [DEBUG] player 112 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 112
+2020-07-06 12:23:56.959 [DEBUG] player 113 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 113
+2020-07-06 12:23:56.959 [DEBUG] player 114 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 114
+2020-07-06 12:23:56.959 [DEBUG] player 115 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 115
+2020-07-06 12:23:56.959 [DEBUG] player 116 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 116
+2020-07-06 12:23:56.959 [DEBUG] player 117 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 117
+2020-07-06 12:23:56.959 [DEBUG] player 118 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 118
+2020-07-06 12:23:56.959 [DEBUG] player 119 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 119
+2020-07-06 12:23:56.959 [DEBUG] player 120 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 120
+2020-07-06 12:23:56.959 [DEBUG] player 121 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 121
+2020-07-06 12:23:56.959 [DEBUG] player 122 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 122
+2020-07-06 12:23:56.959 [DEBUG] player 123 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 123
+2020-07-06 12:23:56.959 [DEBUG] player 124 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 124
+2020-07-06 12:23:56.959 [DEBUG] player 125 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 125
+2020-07-06 12:23:56.959 [DEBUG] player 126 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 126
+2020-07-06 12:23:56.959 [DEBUG] player 127 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 127
+2020-07-06 12:23:56.959 [DEBUG] player 128 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 128
+2020-07-06 12:23:56.959 [DEBUG] player 129 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 129
+2020-07-06 12:23:56.959 [DEBUG] player 130 has been removed from world 1
+2020-07-06 12:23:56.959 [DEBUG] removed player with id 130
+2020-07-06 12:23:56.960 [DEBUG] player 131 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 131
+2020-07-06 12:23:56.960 [DEBUG] player 132 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 132
+2020-07-06 12:23:56.960 [DEBUG] player 133 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 133
+2020-07-06 12:23:56.960 [DEBUG] player 134 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 134
+2020-07-06 12:23:56.960 [DEBUG] player 135 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 135
+2020-07-06 12:23:56.960 [DEBUG] player 136 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 136
+2020-07-06 12:23:56.960 [DEBUG] player 137 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 137
+2020-07-06 12:23:56.960 [DEBUG] player 138 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 138
+2020-07-06 12:23:56.960 [DEBUG] player 139 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 139
+2020-07-06 12:23:56.960 [DEBUG] player 140 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 140
+2020-07-06 12:23:56.960 [DEBUG] player 141 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 141
+2020-07-06 12:23:56.960 [DEBUG] player 142 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 142
+2020-07-06 12:23:56.960 [DEBUG] player 143 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 143
+2020-07-06 12:23:56.960 [DEBUG] player 144 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 144
+2020-07-06 12:23:56.960 [DEBUG] player 145 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 145
+2020-07-06 12:23:56.960 [DEBUG] player 146 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 146
+2020-07-06 12:23:56.960 [DEBUG] player 147 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 147
+2020-07-06 12:23:56.960 [DEBUG] player 148 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 148
+2020-07-06 12:23:56.960 [DEBUG] player 149 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 149
+2020-07-06 12:23:56.960 [DEBUG] player 150 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 150
+2020-07-06 12:23:56.960 [DEBUG] player 151 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 151
+2020-07-06 12:23:56.960 [DEBUG] player 152 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 152
+2020-07-06 12:23:56.960 [DEBUG] player 153 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 153
+2020-07-06 12:23:56.960 [DEBUG] player 154 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 154
+2020-07-06 12:23:56.960 [DEBUG] player 155 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 155
+2020-07-06 12:23:56.960 [DEBUG] player 156 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 156
+2020-07-06 12:23:56.960 [DEBUG] player 157 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 157
+2020-07-06 12:23:56.960 [DEBUG] player 158 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 158
+2020-07-06 12:23:56.960 [DEBUG] player 159 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 159
+2020-07-06 12:23:56.960 [DEBUG] player 160 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 160
+2020-07-06 12:23:56.960 [DEBUG] player 161 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 161
+2020-07-06 12:23:56.960 [DEBUG] player 162 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 162
+2020-07-06 12:23:56.960 [DEBUG] player 163 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 163
+2020-07-06 12:23:56.960 [DEBUG] player 164 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 164
+2020-07-06 12:23:56.960 [DEBUG] player 165 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 165
+2020-07-06 12:23:56.960 [DEBUG] player 166 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 166
+2020-07-06 12:23:56.960 [DEBUG] player 167 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 167
+2020-07-06 12:23:56.960 [DEBUG] player 168 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 168
+2020-07-06 12:23:56.960 [DEBUG] player 169 has been removed from world 1
+2020-07-06 12:23:56.960 [DEBUG] removed player with id 169
+2020-07-06 12:23:56.960 [DEBUG] player 170 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 170
+2020-07-06 12:23:56.961 [DEBUG] player 171 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 171
+2020-07-06 12:23:56.961 [DEBUG] player 172 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 172
+2020-07-06 12:23:56.961 [DEBUG] player 173 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 173
+2020-07-06 12:23:56.961 [DEBUG] player 174 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 174
+2020-07-06 12:23:56.961 [DEBUG] player 175 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 175
+2020-07-06 12:23:56.961 [DEBUG] player 176 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 176
+2020-07-06 12:23:56.961 [DEBUG] player 177 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 177
+2020-07-06 12:23:56.961 [DEBUG] player 178 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 178
+2020-07-06 12:23:56.961 [DEBUG] player 179 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 179
+2020-07-06 12:23:56.961 [DEBUG] player 180 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 180
+2020-07-06 12:23:56.961 [DEBUG] player 181 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 181
+2020-07-06 12:23:56.961 [DEBUG] player 182 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 182
+2020-07-06 12:23:56.961 [DEBUG] player 183 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 183
+2020-07-06 12:23:56.961 [DEBUG] player 184 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 184
+2020-07-06 12:23:56.961 [DEBUG] player 185 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 185
+2020-07-06 12:23:56.961 [DEBUG] player 186 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 186
+2020-07-06 12:23:56.961 [DEBUG] player 187 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 187
+2020-07-06 12:23:56.961 [DEBUG] player 188 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 188
+2020-07-06 12:23:56.961 [DEBUG] player 189 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 189
+2020-07-06 12:23:56.961 [DEBUG] player 190 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 190
+2020-07-06 12:23:56.961 [DEBUG] player 191 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 191
+2020-07-06 12:23:56.961 [DEBUG] player 192 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 192
+2020-07-06 12:23:56.961 [DEBUG] player 193 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 193
+2020-07-06 12:23:56.961 [DEBUG] player 194 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 194
+2020-07-06 12:23:56.961 [DEBUG] player 195 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 195
+2020-07-06 12:23:56.961 [DEBUG] player 196 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 196
+2020-07-06 12:23:56.961 [DEBUG] player 197 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 197
+2020-07-06 12:23:56.961 [DEBUG] player 198 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 198
+2020-07-06 12:23:56.961 [DEBUG] player 199 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 199
+2020-07-06 12:23:56.961 [DEBUG] player 200 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 200
+2020-07-06 12:23:56.961 [DEBUG] player 201 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 201
+2020-07-06 12:23:56.961 [DEBUG] player 202 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 202
+2020-07-06 12:23:56.961 [DEBUG] player 203 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 203
+2020-07-06 12:23:56.961 [DEBUG] player 204 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 204
+2020-07-06 12:23:56.961 [DEBUG] player 205 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 205
+2020-07-06 12:23:56.961 [DEBUG] player 206 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 206
+2020-07-06 12:23:56.961 [DEBUG] player 207 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 207
+2020-07-06 12:23:56.961 [DEBUG] player 208 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 208
+2020-07-06 12:23:56.961 [DEBUG] player 209 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 209
+2020-07-06 12:23:56.961 [DEBUG] player 210 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 210
+2020-07-06 12:23:56.961 [DEBUG] player 211 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 211
+2020-07-06 12:23:56.961 [DEBUG] player 212 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 212
+2020-07-06 12:23:56.961 [DEBUG] player 213 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 213
+2020-07-06 12:23:56.961 [DEBUG] player 214 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 214
+2020-07-06 12:23:56.961 [DEBUG] player 215 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 215
+2020-07-06 12:23:56.961 [DEBUG] player 216 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 216
+2020-07-06 12:23:56.961 [DEBUG] player 217 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 217
+2020-07-06 12:23:56.961 [DEBUG] player 218 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 218
+2020-07-06 12:23:56.961 [DEBUG] player 219 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 219
+2020-07-06 12:23:56.961 [DEBUG] player 220 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 220
+2020-07-06 12:23:56.961 [DEBUG] player 221 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 221
+2020-07-06 12:23:56.961 [DEBUG] player 222 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 222
+2020-07-06 12:23:56.961 [DEBUG] player 223 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 223
+2020-07-06 12:23:56.961 [DEBUG] player 224 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 224
+2020-07-06 12:23:56.961 [DEBUG] player 225 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 225
+2020-07-06 12:23:56.961 [DEBUG] player 226 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 226
+2020-07-06 12:23:56.961 [DEBUG] player 227 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 227
+2020-07-06 12:23:56.961 [DEBUG] player 228 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 228
+2020-07-06 12:23:56.961 [DEBUG] player 229 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 229
+2020-07-06 12:23:56.961 [DEBUG] player 230 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 230
+2020-07-06 12:23:56.961 [DEBUG] player 231 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 231
+2020-07-06 12:23:56.961 [DEBUG] player 232 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 232
+2020-07-06 12:23:56.961 [DEBUG] player 233 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 233
+2020-07-06 12:23:56.961 [DEBUG] player 234 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 234
+2020-07-06 12:23:56.961 [DEBUG] player 235 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 235
+2020-07-06 12:23:56.961 [DEBUG] player 236 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 236
+2020-07-06 12:23:56.961 [DEBUG] player 237 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 237
+2020-07-06 12:23:56.961 [DEBUG] player 238 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 238
+2020-07-06 12:23:56.961 [DEBUG] player 239 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 239
+2020-07-06 12:23:56.961 [DEBUG] player 240 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 240
+2020-07-06 12:23:56.961 [DEBUG] player 241 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 241
+2020-07-06 12:23:56.961 [DEBUG] player 242 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 242
+2020-07-06 12:23:56.961 [DEBUG] player 243 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 243
+2020-07-06 12:23:56.961 [DEBUG] player 244 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 244
+2020-07-06 12:23:56.961 [DEBUG] player 245 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 245
+2020-07-06 12:23:56.961 [DEBUG] player 246 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 246
+2020-07-06 12:23:56.961 [DEBUG] player 247 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 247
+2020-07-06 12:23:56.961 [DEBUG] player 248 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 248
+2020-07-06 12:23:56.961 [DEBUG] player 249 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 249
+2020-07-06 12:23:56.961 [DEBUG] player 250 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 250
+2020-07-06 12:23:56.961 [DEBUG] player 251 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 251
+2020-07-06 12:23:56.961 [DEBUG] player 252 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 252
+2020-07-06 12:23:56.961 [DEBUG] player 253 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 253
+2020-07-06 12:23:56.961 [DEBUG] player 254 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 254
+2020-07-06 12:23:56.961 [DEBUG] player 255 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 255
+2020-07-06 12:23:56.961 [DEBUG] player 256 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 256
+2020-07-06 12:23:56.961 [DEBUG] player 257 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 257
+2020-07-06 12:23:56.961 [DEBUG] player 258 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 258
+2020-07-06 12:23:56.961 [DEBUG] player 259 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 259
+2020-07-06 12:23:56.961 [DEBUG] player 260 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 260
+2020-07-06 12:23:56.961 [DEBUG] player 261 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 261
+2020-07-06 12:23:56.961 [DEBUG] player 262 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 262
+2020-07-06 12:23:56.961 [DEBUG] player 263 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 263
+2020-07-06 12:23:56.961 [DEBUG] player 264 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 264
+2020-07-06 12:23:56.961 [DEBUG] player 265 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 265
+2020-07-06 12:23:56.961 [DEBUG] player 266 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 266
+2020-07-06 12:23:56.961 [DEBUG] player 267 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 267
+2020-07-06 12:23:56.961 [DEBUG] player 268 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 268
+2020-07-06 12:23:56.961 [DEBUG] player 269 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 269
+2020-07-06 12:23:56.961 [DEBUG] player 270 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 270
+2020-07-06 12:23:56.961 [DEBUG] player 271 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 271
+2020-07-06 12:23:56.961 [DEBUG] player 272 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 272
+2020-07-06 12:23:56.961 [DEBUG] player 273 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 273
+2020-07-06 12:23:56.961 [DEBUG] player 274 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 274
+2020-07-06 12:23:56.961 [DEBUG] player 275 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 275
+2020-07-06 12:23:56.961 [DEBUG] player 276 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 276
+2020-07-06 12:23:56.961 [DEBUG] player 277 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 277
+2020-07-06 12:23:56.961 [DEBUG] player 278 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 278
+2020-07-06 12:23:56.961 [DEBUG] player 279 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 279
+2020-07-06 12:23:56.961 [DEBUG] player 280 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 280
+2020-07-06 12:23:56.961 [DEBUG] player 281 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 281
+2020-07-06 12:23:56.961 [DEBUG] player 282 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 282
+2020-07-06 12:23:56.961 [DEBUG] player 283 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 283
+2020-07-06 12:23:56.961 [DEBUG] player 284 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 284
+2020-07-06 12:23:56.961 [DEBUG] player 285 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 285
+2020-07-06 12:23:56.961 [DEBUG] player 286 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 286
+2020-07-06 12:23:56.961 [DEBUG] player 287 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 287
+2020-07-06 12:23:56.961 [DEBUG] player 288 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 288
+2020-07-06 12:23:56.961 [DEBUG] player 289 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 289
+2020-07-06 12:23:56.961 [DEBUG] player 290 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 290
+2020-07-06 12:23:56.961 [DEBUG] player 291 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 291
+2020-07-06 12:23:56.961 [DEBUG] player 292 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 292
+2020-07-06 12:23:56.961 [DEBUG] player 293 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 293
+2020-07-06 12:23:56.961 [DEBUG] player 294 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 294
+2020-07-06 12:23:56.961 [DEBUG] player 295 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 295
+2020-07-06 12:23:56.961 [DEBUG] player 296 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 296
+2020-07-06 12:23:56.961 [DEBUG] player 297 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 297
+2020-07-06 12:23:56.961 [DEBUG] player 298 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 298
+2020-07-06 12:23:56.961 [DEBUG] player 299 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 299
+2020-07-06 12:23:56.961 [DEBUG] player 300 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 300
+2020-07-06 12:23:56.961 [DEBUG] player 301 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 301
+2020-07-06 12:23:56.961 [DEBUG] player 302 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 302
+2020-07-06 12:23:56.961 [DEBUG] player 303 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 303
+2020-07-06 12:23:56.961 [DEBUG] player 304 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 304
+2020-07-06 12:23:56.961 [DEBUG] player 305 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 305
+2020-07-06 12:23:56.961 [DEBUG] player 306 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 306
+2020-07-06 12:23:56.961 [DEBUG] player 307 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 307
+2020-07-06 12:23:56.961 [DEBUG] player 308 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 308
+2020-07-06 12:23:56.961 [DEBUG] player 309 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 309
+2020-07-06 12:23:56.961 [DEBUG] player 310 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 310
+2020-07-06 12:23:56.961 [DEBUG] player 311 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 311
+2020-07-06 12:23:56.961 [DEBUG] player 312 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 312
+2020-07-06 12:23:56.961 [DEBUG] player 313 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 313
+2020-07-06 12:23:56.961 [DEBUG] player 314 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 314
+2020-07-06 12:23:56.961 [DEBUG] player 315 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 315
+2020-07-06 12:23:56.961 [DEBUG] player 316 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 316
+2020-07-06 12:23:56.961 [DEBUG] player 317 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 317
+2020-07-06 12:23:56.961 [DEBUG] player 318 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 318
+2020-07-06 12:23:56.961 [DEBUG] player 319 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 319
+2020-07-06 12:23:56.961 [DEBUG] player 320 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 320
+2020-07-06 12:23:56.961 [DEBUG] player 321 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 321
+2020-07-06 12:23:56.961 [DEBUG] player 322 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 322
+2020-07-06 12:23:56.961 [DEBUG] player 323 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 323
+2020-07-06 12:23:56.961 [DEBUG] player 324 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 324
+2020-07-06 12:23:56.961 [DEBUG] player 325 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 325
+2020-07-06 12:23:56.961 [DEBUG] player 326 has been removed from world 1
+2020-07-06 12:23:56.961 [DEBUG] removed player with id 326
+2020-07-06 12:23:56.963 [DEBUG] player 327 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 327
+2020-07-06 12:23:56.963 [DEBUG] player 328 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 328
+2020-07-06 12:23:56.963 [DEBUG] player 329 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 329
+2020-07-06 12:23:56.963 [DEBUG] player 330 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 330
+2020-07-06 12:23:56.963 [DEBUG] player 331 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 331
+2020-07-06 12:23:56.963 [DEBUG] player 332 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 332
+2020-07-06 12:23:56.963 [DEBUG] player 333 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 333
+2020-07-06 12:23:56.963 [DEBUG] player 334 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 334
+2020-07-06 12:23:56.963 [DEBUG] player 335 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 335
+2020-07-06 12:23:56.963 [DEBUG] player 336 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 336
+2020-07-06 12:23:56.963 [DEBUG] player 337 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 337
+2020-07-06 12:23:56.963 [DEBUG] player 338 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 338
+2020-07-06 12:23:56.963 [DEBUG] player 339 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 339
+2020-07-06 12:23:56.963 [DEBUG] player 340 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 340
+2020-07-06 12:23:56.963 [DEBUG] player 341 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 341
+2020-07-06 12:23:56.963 [DEBUG] player 342 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 342
+2020-07-06 12:23:56.963 [DEBUG] player 343 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 343
+2020-07-06 12:23:56.963 [DEBUG] player 344 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 344
+2020-07-06 12:23:56.963 [DEBUG] player 345 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 345
+2020-07-06 12:23:56.963 [DEBUG] player 346 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 346
+2020-07-06 12:23:56.963 [DEBUG] player 347 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 347
+2020-07-06 12:23:56.963 [DEBUG] player 348 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 348
+2020-07-06 12:23:56.963 [DEBUG] player 349 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 349
+2020-07-06 12:23:56.963 [DEBUG] player 350 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 350
+2020-07-06 12:23:56.963 [DEBUG] player 351 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 351
+2020-07-06 12:23:56.963 [DEBUG] player 352 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 352
+2020-07-06 12:23:56.963 [DEBUG] player 353 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 353
+2020-07-06 12:23:56.963 [DEBUG] player 354 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 354
+2020-07-06 12:23:56.963 [DEBUG] player 355 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 355
+2020-07-06 12:23:56.963 [DEBUG] player 356 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 356
+2020-07-06 12:23:56.963 [DEBUG] player 357 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 357
+2020-07-06 12:23:56.963 [DEBUG] player 358 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 358
+2020-07-06 12:23:56.963 [DEBUG] player 359 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 359
+2020-07-06 12:23:56.963 [DEBUG] player 360 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 360
+2020-07-06 12:23:56.963 [DEBUG] player 361 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 361
+2020-07-06 12:23:56.963 [DEBUG] player 362 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 362
+2020-07-06 12:23:56.963 [DEBUG] player 363 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 363
+2020-07-06 12:23:56.963 [DEBUG] player 364 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 364
+2020-07-06 12:23:56.963 [DEBUG] player 365 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 365
+2020-07-06 12:23:56.963 [DEBUG] player 366 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 366
+2020-07-06 12:23:56.963 [DEBUG] player 367 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 367
+2020-07-06 12:23:56.963 [DEBUG] player 368 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 368
+2020-07-06 12:23:56.963 [DEBUG] player 369 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 369
+2020-07-06 12:23:56.963 [DEBUG] player 370 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 370
+2020-07-06 12:23:56.963 [DEBUG] player 371 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 371
+2020-07-06 12:23:56.963 [DEBUG] player 372 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 372
+2020-07-06 12:23:56.963 [DEBUG] player 373 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 373
+2020-07-06 12:23:56.963 [DEBUG] player 374 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 374
+2020-07-06 12:23:56.963 [DEBUG] player 375 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 375
+2020-07-06 12:23:56.963 [DEBUG] player 376 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 376
+2020-07-06 12:23:56.963 [DEBUG] player 377 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 377
+2020-07-06 12:23:56.963 [DEBUG] player 378 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 378
+2020-07-06 12:23:56.963 [DEBUG] player 379 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 379
+2020-07-06 12:23:56.963 [DEBUG] player 380 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 380
+2020-07-06 12:23:56.963 [DEBUG] player 381 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 381
+2020-07-06 12:23:56.963 [DEBUG] player 382 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 382
+2020-07-06 12:23:56.963 [DEBUG] player 383 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 383
+2020-07-06 12:23:56.963 [DEBUG] player 384 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 384
+2020-07-06 12:23:56.963 [DEBUG] player 385 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 385
+2020-07-06 12:23:56.963 [DEBUG] player 386 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 386
+2020-07-06 12:23:56.963 [DEBUG] player 387 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 387
+2020-07-06 12:23:56.963 [DEBUG] player 388 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 388
+2020-07-06 12:23:56.963 [DEBUG] player 389 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 389
+2020-07-06 12:23:56.963 [DEBUG] player 390 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 390
+2020-07-06 12:23:56.963 [DEBUG] player 391 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 391
+2020-07-06 12:23:56.963 [DEBUG] player 392 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 392
+2020-07-06 12:23:56.963 [DEBUG] player 393 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 393
+2020-07-06 12:23:56.963 [DEBUG] player 394 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 394
+2020-07-06 12:23:56.963 [DEBUG] player 395 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 395
+2020-07-06 12:23:56.963 [DEBUG] player 396 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 396
+2020-07-06 12:23:56.963 [DEBUG] player 397 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 397
+2020-07-06 12:23:56.963 [DEBUG] player 398 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 398
+2020-07-06 12:23:56.963 [DEBUG] player 399 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 399
+2020-07-06 12:23:56.963 [DEBUG] player 400 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 400
+2020-07-06 12:23:56.963 [DEBUG] player 401 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 401
+2020-07-06 12:23:56.963 [DEBUG] player 402 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 402
+2020-07-06 12:23:56.963 [DEBUG] player 403 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 403
+2020-07-06 12:23:56.963 [DEBUG] player 404 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 404
+2020-07-06 12:23:56.963 [DEBUG] player 405 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 405
+2020-07-06 12:23:56.963 [DEBUG] player 406 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 406
+2020-07-06 12:23:56.963 [DEBUG] player 407 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 407
+2020-07-06 12:23:56.963 [DEBUG] player 408 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 408
+2020-07-06 12:23:56.963 [DEBUG] player 409 has been removed from world 1
+2020-07-06 12:23:56.963 [DEBUG] removed player with id 409
+2020-07-06 12:23:56.963 [DEBUG] player 410 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 410
+2020-07-06 12:23:56.964 [DEBUG] player 411 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 411
+2020-07-06 12:23:56.964 [DEBUG] player 412 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 412
+2020-07-06 12:23:56.964 [DEBUG] player 413 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 413
+2020-07-06 12:23:56.964 [DEBUG] player 414 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 414
+2020-07-06 12:23:56.964 [DEBUG] player 415 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 415
+2020-07-06 12:23:56.964 [DEBUG] player 416 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 416
+2020-07-06 12:23:56.964 [DEBUG] player 417 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 417
+2020-07-06 12:23:56.964 [DEBUG] player 418 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 418
+2020-07-06 12:23:56.964 [DEBUG] player 419 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 419
+2020-07-06 12:23:56.964 [DEBUG] player 420 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 420
+2020-07-06 12:23:56.964 [DEBUG] player 421 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 421
+2020-07-06 12:23:56.964 [DEBUG] player 422 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 422
+2020-07-06 12:23:56.964 [DEBUG] player 423 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 423
+2020-07-06 12:23:56.964 [DEBUG] player 424 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 424
+2020-07-06 12:23:56.964 [DEBUG] player 425 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 425
+2020-07-06 12:23:56.964 [DEBUG] player 426 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 426
+2020-07-06 12:23:56.964 [DEBUG] player 427 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 427
+2020-07-06 12:23:56.964 [DEBUG] player 428 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 428
+2020-07-06 12:23:56.964 [DEBUG] player 429 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 429
+2020-07-06 12:23:56.964 [DEBUG] player 430 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 430
+2020-07-06 12:23:56.964 [DEBUG] player 431 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 431
+2020-07-06 12:23:56.964 [DEBUG] player 432 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 432
+2020-07-06 12:23:56.964 [DEBUG] player 433 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 433
+2020-07-06 12:23:56.964 [DEBUG] player 434 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 434
+2020-07-06 12:23:56.964 [DEBUG] player 435 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 435
+2020-07-06 12:23:56.964 [DEBUG] player 436 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 436
+2020-07-06 12:23:56.964 [DEBUG] player 437 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 437
+2020-07-06 12:23:56.964 [DEBUG] player 438 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 438
+2020-07-06 12:23:56.964 [DEBUG] player 439 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 439
+2020-07-06 12:23:56.964 [DEBUG] player 440 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 440
+2020-07-06 12:23:56.964 [DEBUG] player 441 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 441
+2020-07-06 12:23:56.964 [DEBUG] player 442 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 442
+2020-07-06 12:23:56.964 [DEBUG] player 443 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 443
+2020-07-06 12:23:56.964 [DEBUG] player 444 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 444
+2020-07-06 12:23:56.964 [DEBUG] player 445 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 445
+2020-07-06 12:23:56.964 [DEBUG] player 446 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 446
+2020-07-06 12:23:56.964 [DEBUG] player 447 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 447
+2020-07-06 12:23:56.964 [DEBUG] player 448 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 448
+2020-07-06 12:23:56.964 [DEBUG] player 449 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 449
+2020-07-06 12:23:56.964 [DEBUG] player 450 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 450
+2020-07-06 12:23:56.964 [DEBUG] player 451 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 451
+2020-07-06 12:23:56.964 [DEBUG] player 452 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 452
+2020-07-06 12:23:56.964 [DEBUG] player 453 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 453
+2020-07-06 12:23:56.964 [DEBUG] player 454 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 454
+2020-07-06 12:23:56.964 [DEBUG] player 455 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 455
+2020-07-06 12:23:56.964 [DEBUG] player 456 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 456
+2020-07-06 12:23:56.964 [DEBUG] player 457 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 457
+2020-07-06 12:23:56.964 [DEBUG] player 458 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 458
+2020-07-06 12:23:56.964 [DEBUG] player 459 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 459
+2020-07-06 12:23:56.964 [DEBUG] player 460 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 460
+2020-07-06 12:23:56.964 [DEBUG] player 461 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 461
+2020-07-06 12:23:56.964 [DEBUG] player 462 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 462
+2020-07-06 12:23:56.964 [DEBUG] player 463 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 463
+2020-07-06 12:23:56.964 [DEBUG] player 464 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 464
+2020-07-06 12:23:56.964 [DEBUG] player 465 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 465
+2020-07-06 12:23:56.964 [DEBUG] player 466 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 466
+2020-07-06 12:23:56.964 [DEBUG] player 467 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 467
+2020-07-06 12:23:56.964 [DEBUG] player 468 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 468
+2020-07-06 12:23:56.964 [DEBUG] player 469 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 469
+2020-07-06 12:23:56.964 [DEBUG] player 470 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 470
+2020-07-06 12:23:56.964 [DEBUG] player 471 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 471
+2020-07-06 12:23:56.964 [DEBUG] player 472 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 472
+2020-07-06 12:23:56.964 [DEBUG] player 473 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 473
+2020-07-06 12:23:56.964 [DEBUG] player 474 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 474
+2020-07-06 12:23:56.964 [DEBUG] player 475 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 475
+2020-07-06 12:23:56.964 [DEBUG] player 476 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 476
+2020-07-06 12:23:56.964 [DEBUG] player 477 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 477
+2020-07-06 12:23:56.964 [DEBUG] player 478 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 478
+2020-07-06 12:23:56.964 [DEBUG] player 479 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 479
+2020-07-06 12:23:56.964 [DEBUG] player 480 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 480
+2020-07-06 12:23:56.964 [DEBUG] player 481 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 481
+2020-07-06 12:23:56.964 [DEBUG] player 482 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 482
+2020-07-06 12:23:56.964 [DEBUG] player 483 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 483
+2020-07-06 12:23:56.964 [DEBUG] player 484 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 484
+2020-07-06 12:23:56.964 [DEBUG] player 485 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 485
+2020-07-06 12:23:56.964 [DEBUG] player 486 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 486
+2020-07-06 12:23:56.964 [DEBUG] player 487 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 487
+2020-07-06 12:23:56.964 [DEBUG] player 488 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 488
+2020-07-06 12:23:56.964 [DEBUG] player 489 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 489
+2020-07-06 12:23:56.964 [DEBUG] player 490 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 490
+2020-07-06 12:23:56.964 [DEBUG] player 491 has been removed from world 1
+2020-07-06 12:23:56.964 [DEBUG] removed player with id 491
+2020-07-06 12:23:56.964 [DEBUG] player 492 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 492
+2020-07-06 12:23:56.966 [DEBUG] player 493 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 493
+2020-07-06 12:23:56.966 [DEBUG] player 494 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 494
+2020-07-06 12:23:56.966 [DEBUG] player 495 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 495
+2020-07-06 12:23:56.966 [DEBUG] player 496 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 496
+2020-07-06 12:23:56.966 [DEBUG] player 497 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 497
+2020-07-06 12:23:56.966 [DEBUG] player 498 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 498
+2020-07-06 12:23:56.966 [DEBUG] player 499 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 499
+2020-07-06 12:23:56.966 [DEBUG] player 500 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 500
+2020-07-06 12:23:56.966 [DEBUG] player 501 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 501
+2020-07-06 12:23:56.966 [DEBUG] player 502 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 502
+2020-07-06 12:23:56.966 [DEBUG] player 503 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 503
+2020-07-06 12:23:56.966 [DEBUG] player 504 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 504
+2020-07-06 12:23:56.966 [DEBUG] player 505 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 505
+2020-07-06 12:23:56.966 [DEBUG] player 506 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 506
+2020-07-06 12:23:56.966 [DEBUG] player 507 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 507
+2020-07-06 12:23:56.966 [DEBUG] player 508 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 508
+2020-07-06 12:23:56.966 [DEBUG] player 509 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 509
+2020-07-06 12:23:56.966 [DEBUG] player 510 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 510
+2020-07-06 12:23:56.966 [DEBUG] player 511 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 511
+2020-07-06 12:23:56.966 [DEBUG] player 512 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 512
+2020-07-06 12:23:56.966 [DEBUG] player 513 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 513
+2020-07-06 12:23:56.966 [DEBUG] player 514 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 514
+2020-07-06 12:23:56.966 [DEBUG] player 515 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 515
+2020-07-06 12:23:56.966 [DEBUG] player 516 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 516
+2020-07-06 12:23:56.966 [DEBUG] player 517 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 517
+2020-07-06 12:23:56.966 [DEBUG] player 518 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 518
+2020-07-06 12:23:56.966 [DEBUG] player 519 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 519
+2020-07-06 12:23:56.966 [DEBUG] player 520 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 520
+2020-07-06 12:23:56.966 [DEBUG] player 521 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 521
+2020-07-06 12:23:56.966 [DEBUG] player 522 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 522
+2020-07-06 12:23:56.966 [DEBUG] player 523 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 523
+2020-07-06 12:23:56.966 [DEBUG] player 524 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 524
+2020-07-06 12:23:56.966 [DEBUG] player 525 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 525
+2020-07-06 12:23:56.966 [DEBUG] player 526 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 526
+2020-07-06 12:23:56.966 [DEBUG] player 527 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 527
+2020-07-06 12:23:56.966 [DEBUG] player 528 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 528
+2020-07-06 12:23:56.966 [DEBUG] player 529 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 529
+2020-07-06 12:23:56.966 [DEBUG] player 530 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 530
+2020-07-06 12:23:56.966 [DEBUG] player 531 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 531
+2020-07-06 12:23:56.966 [DEBUG] player 532 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 532
+2020-07-06 12:23:56.966 [DEBUG] player 533 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 533
+2020-07-06 12:23:56.966 [DEBUG] player 534 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 534
+2020-07-06 12:23:56.966 [DEBUG] player 535 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 535
+2020-07-06 12:23:56.966 [DEBUG] player 536 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 536
+2020-07-06 12:23:56.966 [DEBUG] player 537 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 537
+2020-07-06 12:23:56.966 [DEBUG] player 538 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 538
+2020-07-06 12:23:56.966 [DEBUG] player 539 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 539
+2020-07-06 12:23:56.966 [DEBUG] player 540 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 540
+2020-07-06 12:23:56.966 [DEBUG] player 541 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 541
+2020-07-06 12:23:56.966 [DEBUG] player 542 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 542
+2020-07-06 12:23:56.966 [DEBUG] player 543 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 543
+2020-07-06 12:23:56.966 [DEBUG] player 544 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 544
+2020-07-06 12:23:56.966 [DEBUG] player 545 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 545
+2020-07-06 12:23:56.966 [DEBUG] player 546 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 546
+2020-07-06 12:23:56.966 [DEBUG] player 547 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 547
+2020-07-06 12:23:56.966 [DEBUG] player 548 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 548
+2020-07-06 12:23:56.966 [DEBUG] player 549 has been removed from world 1
+2020-07-06 12:23:56.966 [DEBUG] removed player with id 549
+2020-07-06 12:23:56.967 [DEBUG] player 550 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 550
+2020-07-06 12:23:56.967 [DEBUG] player 551 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 551
+2020-07-06 12:23:56.967 [DEBUG] player 552 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 552
+2020-07-06 12:23:56.967 [DEBUG] player 553 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 553
+2020-07-06 12:23:56.967 [DEBUG] player 554 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 554
+2020-07-06 12:23:56.967 [DEBUG] player 555 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 555
+2020-07-06 12:23:56.967 [DEBUG] player 556 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 556
+2020-07-06 12:23:56.967 [DEBUG] player 557 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 557
+2020-07-06 12:23:56.967 [DEBUG] player 558 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 558
+2020-07-06 12:23:56.967 [DEBUG] player 559 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 559
+2020-07-06 12:23:56.967 [DEBUG] player 560 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 560
+2020-07-06 12:23:56.967 [DEBUG] player 561 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 561
+2020-07-06 12:23:56.967 [DEBUG] player 562 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 562
+2020-07-06 12:23:56.967 [DEBUG] player 563 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 563
+2020-07-06 12:23:56.967 [DEBUG] player 564 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 564
+2020-07-06 12:23:56.967 [DEBUG] player 565 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 565
+2020-07-06 12:23:56.967 [DEBUG] player 566 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 566
+2020-07-06 12:23:56.967 [DEBUG] player 567 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 567
+2020-07-06 12:23:56.967 [DEBUG] player 568 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 568
+2020-07-06 12:23:56.967 [DEBUG] player 569 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 569
+2020-07-06 12:23:56.967 [DEBUG] player 570 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 570
+2020-07-06 12:23:56.967 [DEBUG] player 571 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 571
+2020-07-06 12:23:56.967 [DEBUG] player 572 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 572
+2020-07-06 12:23:56.967 [DEBUG] player 573 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 573
+2020-07-06 12:23:56.967 [DEBUG] player 574 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 574
+2020-07-06 12:23:56.967 [DEBUG] player 575 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 575
+2020-07-06 12:23:56.967 [DEBUG] player 576 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 576
+2020-07-06 12:23:56.967 [DEBUG] player 577 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 577
+2020-07-06 12:23:56.967 [DEBUG] player 578 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 578
+2020-07-06 12:23:56.967 [DEBUG] player 579 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 579
+2020-07-06 12:23:56.967 [DEBUG] player 580 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 580
+2020-07-06 12:23:56.967 [DEBUG] player 581 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 581
+2020-07-06 12:23:56.967 [DEBUG] player 582 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 582
+2020-07-06 12:23:56.967 [DEBUG] player 583 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 583
+2020-07-06 12:23:56.967 [DEBUG] player 584 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 584
+2020-07-06 12:23:56.967 [DEBUG] player 585 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 585
+2020-07-06 12:23:56.967 [DEBUG] player 586 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 586
+2020-07-06 12:23:56.967 [DEBUG] player 587 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 587
+2020-07-06 12:23:56.967 [DEBUG] player 588 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 588
+2020-07-06 12:23:56.967 [DEBUG] player 589 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 589
+2020-07-06 12:23:56.967 [DEBUG] player 590 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 590
+2020-07-06 12:23:56.967 [DEBUG] player 591 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 591
+2020-07-06 12:23:56.967 [DEBUG] player 592 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 592
+2020-07-06 12:23:56.967 [DEBUG] player 593 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 593
+2020-07-06 12:23:56.967 [DEBUG] player 594 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 594
+2020-07-06 12:23:56.967 [DEBUG] player 595 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 595
+2020-07-06 12:23:56.967 [DEBUG] player 596 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 596
+2020-07-06 12:23:56.967 [DEBUG] player 597 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 597
+2020-07-06 12:23:56.967 [DEBUG] player 598 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 598
+2020-07-06 12:23:56.967 [DEBUG] player 599 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 599
+2020-07-06 12:23:56.967 [DEBUG] player 600 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 600
+2020-07-06 12:23:56.967 [DEBUG] player 601 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 601
+2020-07-06 12:23:56.967 [DEBUG] player 602 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 602
+2020-07-06 12:23:56.967 [DEBUG] player 603 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 603
+2020-07-06 12:23:56.967 [DEBUG] player 604 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 604
+2020-07-06 12:23:56.967 [DEBUG] player 605 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 605
+2020-07-06 12:23:56.967 [DEBUG] player 606 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 606
+2020-07-06 12:23:56.967 [DEBUG] player 607 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 607
+2020-07-06 12:23:56.967 [DEBUG] player 608 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 608
+2020-07-06 12:23:56.967 [DEBUG] player 609 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 609
+2020-07-06 12:23:56.967 [DEBUG] player 610 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 610
+2020-07-06 12:23:56.967 [DEBUG] player 611 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 611
+2020-07-06 12:23:56.967 [DEBUG] player 612 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 612
+2020-07-06 12:23:56.967 [DEBUG] player 613 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 613
+2020-07-06 12:23:56.967 [DEBUG] player 614 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 614
+2020-07-06 12:23:56.967 [DEBUG] player 615 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 615
+2020-07-06 12:23:56.967 [DEBUG] player 616 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 616
+2020-07-06 12:23:56.967 [DEBUG] player 617 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 617
+2020-07-06 12:23:56.967 [DEBUG] player 618 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 618
+2020-07-06 12:23:56.967 [DEBUG] player 619 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 619
+2020-07-06 12:23:56.967 [DEBUG] player 620 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 620
+2020-07-06 12:23:56.967 [DEBUG] player 621 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 621
+2020-07-06 12:23:56.967 [DEBUG] player 622 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 622
+2020-07-06 12:23:56.967 [DEBUG] player 623 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 623
+2020-07-06 12:23:56.967 [DEBUG] player 624 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 624
+2020-07-06 12:23:56.967 [DEBUG] player 625 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 625
+2020-07-06 12:23:56.967 [DEBUG] player 626 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 626
+2020-07-06 12:23:56.967 [DEBUG] player 627 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 627
+2020-07-06 12:23:56.967 [DEBUG] player 628 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 628
+2020-07-06 12:23:56.967 [DEBUG] player 629 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 629
+2020-07-06 12:23:56.967 [DEBUG] player 630 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 630
+2020-07-06 12:23:56.967 [DEBUG] player 631 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 631
+2020-07-06 12:23:56.967 [DEBUG] player 632 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 632
+2020-07-06 12:23:56.967 [DEBUG] player 633 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 633
+2020-07-06 12:23:56.967 [DEBUG] player 634 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 634
+2020-07-06 12:23:56.967 [DEBUG] player 635 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 635
+2020-07-06 12:23:56.967 [DEBUG] player 636 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 636
+2020-07-06 12:23:56.967 [DEBUG] player 637 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 637
+2020-07-06 12:23:56.967 [DEBUG] player 638 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 638
+2020-07-06 12:23:56.967 [DEBUG] player 639 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 639
+2020-07-06 12:23:56.967 [DEBUG] player 640 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 640
+2020-07-06 12:23:56.967 [DEBUG] player 641 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 641
+2020-07-06 12:23:56.967 [DEBUG] player 642 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 642
+2020-07-06 12:23:56.967 [DEBUG] player 643 has been removed from world 1
+2020-07-06 12:23:56.967 [DEBUG] removed player with id 643
+2020-07-06 12:23:56.969 [DEBUG] player 644 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 644
+2020-07-06 12:23:56.969 [DEBUG] player 645 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 645
+2020-07-06 12:23:56.969 [DEBUG] player 646 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 646
+2020-07-06 12:23:56.969 [DEBUG] player 647 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 647
+2020-07-06 12:23:56.969 [DEBUG] player 648 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 648
+2020-07-06 12:23:56.969 [DEBUG] player 649 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 649
+2020-07-06 12:23:56.969 [DEBUG] player 650 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 650
+2020-07-06 12:23:56.969 [DEBUG] player 651 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 651
+2020-07-06 12:23:56.969 [DEBUG] player 652 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 652
+2020-07-06 12:23:56.969 [DEBUG] player 653 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 653
+2020-07-06 12:23:56.969 [DEBUG] player 654 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 654
+2020-07-06 12:23:56.969 [DEBUG] player 655 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 655
+2020-07-06 12:23:56.969 [DEBUG] player 656 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 656
+2020-07-06 12:23:56.969 [DEBUG] player 657 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 657
+2020-07-06 12:23:56.969 [DEBUG] player 658 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 658
+2020-07-06 12:23:56.969 [DEBUG] player 659 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 659
+2020-07-06 12:23:56.969 [DEBUG] player 660 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 660
+2020-07-06 12:23:56.969 [DEBUG] player 661 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 661
+2020-07-06 12:23:56.969 [DEBUG] player 662 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 662
+2020-07-06 12:23:56.969 [DEBUG] player 663 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 663
+2020-07-06 12:23:56.969 [DEBUG] player 664 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 664
+2020-07-06 12:23:56.969 [DEBUG] player 665 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 665
+2020-07-06 12:23:56.969 [DEBUG] player 666 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 666
+2020-07-06 12:23:56.969 [DEBUG] player 667 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 667
+2020-07-06 12:23:56.969 [DEBUG] player 668 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 668
+2020-07-06 12:23:56.969 [DEBUG] player 669 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 669
+2020-07-06 12:23:56.969 [DEBUG] player 670 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 670
+2020-07-06 12:23:56.969 [DEBUG] player 671 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 671
+2020-07-06 12:23:56.969 [DEBUG] player 672 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 672
+2020-07-06 12:23:56.969 [DEBUG] player 673 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 673
+2020-07-06 12:23:56.969 [DEBUG] player 674 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 674
+2020-07-06 12:23:56.969 [DEBUG] player 675 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 675
+2020-07-06 12:23:56.969 [DEBUG] player 676 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 676
+2020-07-06 12:23:56.969 [DEBUG] player 677 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 677
+2020-07-06 12:23:56.969 [DEBUG] player 678 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 678
+2020-07-06 12:23:56.969 [DEBUG] player 679 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 679
+2020-07-06 12:23:56.969 [DEBUG] player 680 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 680
+2020-07-06 12:23:56.969 [DEBUG] player 681 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 681
+2020-07-06 12:23:56.969 [DEBUG] player 682 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 682
+2020-07-06 12:23:56.969 [DEBUG] player 683 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 683
+2020-07-06 12:23:56.969 [DEBUG] player 684 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 684
+2020-07-06 12:23:56.969 [DEBUG] player 685 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 685
+2020-07-06 12:23:56.969 [DEBUG] player 686 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 686
+2020-07-06 12:23:56.969 [DEBUG] player 687 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 687
+2020-07-06 12:23:56.969 [DEBUG] player 688 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 688
+2020-07-06 12:23:56.969 [DEBUG] player 689 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 689
+2020-07-06 12:23:56.969 [DEBUG] player 690 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 690
+2020-07-06 12:23:56.969 [DEBUG] player 691 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 691
+2020-07-06 12:23:56.969 [DEBUG] player 692 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 692
+2020-07-06 12:23:56.969 [DEBUG] player 693 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 693
+2020-07-06 12:23:56.969 [DEBUG] player 694 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 694
+2020-07-06 12:23:56.969 [DEBUG] player 695 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 695
+2020-07-06 12:23:56.969 [DEBUG] player 696 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 696
+2020-07-06 12:23:56.969 [DEBUG] player 697 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 697
+2020-07-06 12:23:56.969 [DEBUG] player 698 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 698
+2020-07-06 12:23:56.969 [DEBUG] player 699 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 699
+2020-07-06 12:23:56.969 [DEBUG] player 700 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 700
+2020-07-06 12:23:56.969 [DEBUG] player 701 has been removed from world 1
+2020-07-06 12:23:56.969 [DEBUG] removed player with id 701
+2020-07-06 12:23:56.993 [DEBUG] player 1 has been removed from world 1
+2020-07-06 12:23:56.993 [DEBUG] removed player with id 1
+2020-07-06 12:23:56.998 [DEBUG] removed world with id 1

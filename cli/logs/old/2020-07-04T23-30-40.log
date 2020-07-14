@@ -1,0 +1,217 @@
+2020-07-04 23:30:04.217 [INFO] starting
+2020-07-04 23:30:04.220 [DEBUG] listener opening at 443
+2020-07-04 23:30:04.232 [INFO] ticker begin
+2020-07-04 23:30:04.232 [INFO] OgarII 1.3.6
+2020-07-04 23:30:04.232 [INFO] gamemode: FFA
+2020-07-04 23:30:04.234 [INFO] listener open at 443
+2020-07-04 23:30:05.218 [DEBUG] command stream open
+2020-07-04 23:30:16.631 [ACCESS] REQUEST FROM ::1, not secure, Origin: https://agar.io
+2020-07-04 23:30:16.631 [DEBUG] client verification passed
+2020-07-04 23:30:16.634 [ACCESS] CONNECTION FROM ::1
+2020-07-04 23:30:16.643 [DEBUG] added a player with id 1
+2020-07-04 23:30:16.673 [DEBUG] added a world with id 1
+2020-07-04 23:30:16.673 [DEBUG] player 1 has been added to world 1
+2020-07-04 23:30:34.293 @ minion 1 100
+2020-07-04 23:30:34.293 unknown command
+2020-07-04 23:30:40.626 @ addminion 1 100
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 2
+2020-07-04 23:30:40.627 [DEBUG] player 2 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 3
+2020-07-04 23:30:40.627 [DEBUG] player 3 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 4
+2020-07-04 23:30:40.627 [DEBUG] player 4 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 5
+2020-07-04 23:30:40.627 [DEBUG] player 5 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 6
+2020-07-04 23:30:40.627 [DEBUG] player 6 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 7
+2020-07-04 23:30:40.627 [DEBUG] player 7 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 8
+2020-07-04 23:30:40.627 [DEBUG] player 8 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 9
+2020-07-04 23:30:40.627 [DEBUG] player 9 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 10
+2020-07-04 23:30:40.627 [DEBUG] player 10 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 11
+2020-07-04 23:30:40.627 [DEBUG] player 11 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 12
+2020-07-04 23:30:40.627 [DEBUG] player 12 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 13
+2020-07-04 23:30:40.627 [DEBUG] player 13 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 14
+2020-07-04 23:30:40.627 [DEBUG] player 14 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 15
+2020-07-04 23:30:40.627 [DEBUG] player 15 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 16
+2020-07-04 23:30:40.627 [DEBUG] player 16 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 17
+2020-07-04 23:30:40.627 [DEBUG] player 17 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 18
+2020-07-04 23:30:40.627 [DEBUG] player 18 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 19
+2020-07-04 23:30:40.627 [DEBUG] player 19 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 20
+2020-07-04 23:30:40.627 [DEBUG] player 20 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 21
+2020-07-04 23:30:40.627 [DEBUG] player 21 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 22
+2020-07-04 23:30:40.627 [DEBUG] player 22 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 23
+2020-07-04 23:30:40.627 [DEBUG] player 23 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 24
+2020-07-04 23:30:40.627 [DEBUG] player 24 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 25
+2020-07-04 23:30:40.627 [DEBUG] player 25 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 26
+2020-07-04 23:30:40.627 [DEBUG] player 26 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 27
+2020-07-04 23:30:40.627 [DEBUG] player 27 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 28
+2020-07-04 23:30:40.627 [DEBUG] player 28 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 29
+2020-07-04 23:30:40.627 [DEBUG] player 29 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 30
+2020-07-04 23:30:40.627 [DEBUG] player 30 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 31
+2020-07-04 23:30:40.627 [DEBUG] player 31 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 32
+2020-07-04 23:30:40.627 [DEBUG] player 32 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 33
+2020-07-04 23:30:40.627 [DEBUG] player 33 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 34
+2020-07-04 23:30:40.627 [DEBUG] player 34 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 35
+2020-07-04 23:30:40.627 [DEBUG] player 35 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 36
+2020-07-04 23:30:40.627 [DEBUG] player 36 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 37
+2020-07-04 23:30:40.627 [DEBUG] player 37 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 38
+2020-07-04 23:30:40.627 [DEBUG] player 38 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 39
+2020-07-04 23:30:40.627 [DEBUG] player 39 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 40
+2020-07-04 23:30:40.627 [DEBUG] player 40 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 41
+2020-07-04 23:30:40.627 [DEBUG] player 41 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 42
+2020-07-04 23:30:40.627 [DEBUG] player 42 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 43
+2020-07-04 23:30:40.627 [DEBUG] player 43 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 44
+2020-07-04 23:30:40.627 [DEBUG] player 44 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 45
+2020-07-04 23:30:40.627 [DEBUG] player 45 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 46
+2020-07-04 23:30:40.627 [DEBUG] player 46 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 47
+2020-07-04 23:30:40.627 [DEBUG] player 47 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 48
+2020-07-04 23:30:40.627 [DEBUG] player 48 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 49
+2020-07-04 23:30:40.627 [DEBUG] player 49 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 50
+2020-07-04 23:30:40.627 [DEBUG] player 50 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 51
+2020-07-04 23:30:40.627 [DEBUG] player 51 has been added to world 1
+2020-07-04 23:30:40.627 [DEBUG] added a player with id 52
+2020-07-04 23:30:40.628 [DEBUG] player 52 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 53
+2020-07-04 23:30:40.628 [DEBUG] player 53 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 54
+2020-07-04 23:30:40.628 [DEBUG] player 54 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 55
+2020-07-04 23:30:40.628 [DEBUG] player 55 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 56
+2020-07-04 23:30:40.628 [DEBUG] player 56 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 57
+2020-07-04 23:30:40.628 [DEBUG] player 57 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 58
+2020-07-04 23:30:40.628 [DEBUG] player 58 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 59
+2020-07-04 23:30:40.628 [DEBUG] player 59 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 60
+2020-07-04 23:30:40.628 [DEBUG] player 60 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 61
+2020-07-04 23:30:40.628 [DEBUG] player 61 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 62
+2020-07-04 23:30:40.628 [DEBUG] player 62 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 63
+2020-07-04 23:30:40.628 [DEBUG] player 63 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 64
+2020-07-04 23:30:40.628 [DEBUG] player 64 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 65
+2020-07-04 23:30:40.628 [DEBUG] player 65 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 66
+2020-07-04 23:30:40.628 [DEBUG] player 66 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 67
+2020-07-04 23:30:40.628 [DEBUG] player 67 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 68
+2020-07-04 23:30:40.628 [DEBUG] player 68 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 69
+2020-07-04 23:30:40.628 [DEBUG] player 69 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 70
+2020-07-04 23:30:40.628 [DEBUG] player 70 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 71
+2020-07-04 23:30:40.628 [DEBUG] player 71 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 72
+2020-07-04 23:30:40.628 [DEBUG] player 72 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 73
+2020-07-04 23:30:40.628 [DEBUG] player 73 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 74
+2020-07-04 23:30:40.628 [DEBUG] player 74 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 75
+2020-07-04 23:30:40.628 [DEBUG] player 75 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 76
+2020-07-04 23:30:40.628 [DEBUG] player 76 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 77
+2020-07-04 23:30:40.628 [DEBUG] player 77 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 78
+2020-07-04 23:30:40.628 [DEBUG] player 78 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 79
+2020-07-04 23:30:40.628 [DEBUG] player 79 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 80
+2020-07-04 23:30:40.628 [DEBUG] player 80 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 81
+2020-07-04 23:30:40.628 [DEBUG] player 81 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 82
+2020-07-04 23:30:40.628 [DEBUG] player 82 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 83
+2020-07-04 23:30:40.628 [DEBUG] player 83 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 84
+2020-07-04 23:30:40.628 [DEBUG] player 84 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 85
+2020-07-04 23:30:40.628 [DEBUG] player 85 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 86
+2020-07-04 23:30:40.628 [DEBUG] player 86 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 87
+2020-07-04 23:30:40.628 [DEBUG] player 87 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 88
+2020-07-04 23:30:40.628 [DEBUG] player 88 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 89
+2020-07-04 23:30:40.628 [DEBUG] player 89 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 90
+2020-07-04 23:30:40.628 [DEBUG] player 90 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 91
+2020-07-04 23:30:40.628 [DEBUG] player 91 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 92
+2020-07-04 23:30:40.628 [DEBUG] player 92 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 93
+2020-07-04 23:30:40.628 [DEBUG] player 93 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 94
+2020-07-04 23:30:40.628 [DEBUG] player 94 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 95
+2020-07-04 23:30:40.628 [DEBUG] player 95 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 96
+2020-07-04 23:30:40.628 [DEBUG] player 96 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 97
+2020-07-04 23:30:40.628 [DEBUG] player 97 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 98
+2020-07-04 23:30:40.628 [DEBUG] player 98 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 99
+2020-07-04 23:30:40.628 [DEBUG] player 99 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 100
+2020-07-04 23:30:40.628 [DEBUG] player 100 has been added to world 1
+2020-07-04 23:30:40.628 [DEBUG] added a player with id 101
+2020-07-04 23:30:40.628 [DEBUG] player 101 has been added to world 1
+2020-07-04 23:30:40.628 added 100 minions to player

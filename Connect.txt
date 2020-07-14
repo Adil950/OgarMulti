@@ -1,0 +1,1 @@
+core.disableIntegrityChecks(true); core.connect("ws://localhost:5555");
