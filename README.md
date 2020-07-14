@@ -16,6 +16,8 @@ Your friendly agar.io private server recreation.
 
 
 ## Running
+Video Tutorial [![Watch the video]()](https://youtu.be/4vTAjtrPKK8)
+
 
 1. Make sure you have node.js version 8 or greater.   https://nodejs.org/dist/v8.11.3/node-v8.11.3-x64.msi
 
@@ -30,6 +32,7 @@ Your friendly agar.io private server recreation.
 5. `cd ./cli/`
 
 6. `node index.js`
+
 
 ## Configuring
 
