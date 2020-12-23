@@ -16,7 +16,7 @@ Your friendly agar.io private server recreation.
 
 
 ## Running
-Video Tutorial [![Watch the video](https://i.imgur.com/An6YTAL.png)](https://youtu.be/4vTAjtrPKK8)
+Video Tutorial [![Watch the video](https://i.imgur.com/FBt6Bi5.png)](https://youtu.be/5ZrS17s5rbQ)
 
 
 1. Make sure you have node.js version 8 or greater. https://nodejs.org/ja/blog/release/v8.11.1/  choose your system bits
