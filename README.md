@@ -2,7 +2,7 @@
 
 # OgarII
 
-Original repository https://github.com/Luka967/OgarII
+By YT Adil Muhtarov
 
 Your friendly agar.io private server recreation.
 
